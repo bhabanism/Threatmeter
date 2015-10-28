@@ -44,10 +44,10 @@ loadCards = function() {
 }
 
 getValidMana = function(mana) {
-    if(mana>100 || mana<0) {
-        mana = 100;
+    if(mana<=100 && mana>=0) {
+        return mana;
     }
-    return mana;
+    return 100;
 }
 
 isPlayableCard = function(card) {
