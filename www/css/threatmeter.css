@@ -1,0 +1,7 @@
+#class_cards, #neutral_cards {
+    display : inline;
+}
+
+#cards {
+    display: block;
+}
