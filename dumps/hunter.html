@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang=""><!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="file:///E:/Anvil/Threatmeter/www/apple-touch-icon.png">
+
+        <link rel="stylesheet" href="hunter_files/normalize.css">
+        <link rel="stylesheet" href="hunter_files/main.css">
+        <link rel="stylesheet" href="hunter_files/threatmeter.css">
+
+        <script src="hunter_files/modernizr-2.js"></script>
+    </head>
+    <body>
+        
+        <div id="cardsearch"> 
+            
+            <div>
+                <span>Opponent Class :</span>
+                <select id="hero">
+                  <option value="Druid">Druid</option>
+                  <option selected="selected" value="Hunter">Hunter</option>
+                  <option value="Mage">Mage</option>
+                  <option value="Paladin">Paladin</option>
+                  <option value="Priest">Priest</option>
+                  <option value="Shaman">Shaman</option>              
+                  <option value="Warlock">Warlock</option>
+                  <option value="Warrior">Warrior</option>
+                </select>
+            </div>
+            
+            <div>
+                <span>Mana :</span>
+                <input id="mana" size="2" value="100" type="text">
+            </div>
+        
+            <div>
+                <button id="search">Search</button>
+                <button id="endturn">End Turn</button>
+                <button id="reset">Reset</button>
+            </div>
+        
+        </div>
+
+        <div id="cards">
+            <h1>Class Cards</h1>
+            <div id="class_cards"><img class="card_image" src="hunter_files/NEW1_031.png" alt="Animal" companion=""><img class="card_image" src="hunter_files/DS1_185.png" alt="Arcane" shot=""><img class="card_image" src="hunter_files/DS1_070.png" alt="Houndmaster/"><img class="card_image" src="hunter_files/CS2_084.png" alt="Hunter's" mark=""><img class="card_image" src="hunter_files/EX1_539.png" alt="Kill" command=""><img class="card_image" src="hunter_files/DS1_183.png" alt="Multi-Shot/"><img class="card_image" src="hunter_files/CS2_237.png" alt="Starving" buzzard=""><img class="card_image" src="hunter_files/DS1_175.png" alt="Timber" wolf=""><img class="card_image" src="hunter_files/DS1_184.png" alt="Tracking/"><img class="card_image" src="hunter_files/DS1_178.png" alt="Tundra" rhino=""><img class="card_image" src="hunter_files/BRM_014.png" alt="Core" rager=""><img class="card_image" src="hunter_files/BRM_013.png" alt="Quick" shot=""><img class="card_image" src="hunter_files/EX1_549.png" alt="Bestial" wrath=""><img class="card_image" src="hunter_files/EX1_617.png" alt="Deadly" shot=""><img class="card_image" src="hunter_files/EX1_536.png" alt="Eaglehorn" bow=""><img class="card_image" src="hunter_files/EX1_537.png" alt="Explosive" shot=""><img class="card_image" src="hunter_files/EX1_610.png" alt="Explosive" trap=""><img class="card_image" src="hunter_files/EX1_544.png" alt="Flare/"><img class="card_image" src="hunter_files/EX1_611.png" alt="Freezing" trap=""><img class="card_image" src="hunter_files/DS1_188.png" alt="Gladiator's" longbow=""><img class="card_image" src="hunter_files/EX1_543.png" alt="King" krush=""><img class="card_image" src="hunter_files/EX1_533.png" alt="Misdirection/"><img class="card_image" src="hunter_files/EX1_534.png" alt="Savannah" highmane=""><img class="card_image" src="hunter_files/EX1_531.png" alt="Scavenging" hyena=""><img class="card_image" src="hunter_files/EX1_554.png" alt="Snake" trap=""><img class="card_image" src="hunter_files/EX1_609.png" alt="Snipe/"><img class="card_image" src="hunter_files/EX1_538.png" alt="Unleash" the="" hounds=""><img class="card_image" src="hunter_files/FP1_011.png" alt="Webspinner/"><img class="card_image" src="hunter_files/GVG_017.png" alt="Call" pet=""><img class="card_image" src="hunter_files/GVG_073.png" alt="Cobra" shot=""><img class="card_image" src="hunter_files/GVG_026.png" alt="Feign" death=""><img class="card_image" src="hunter_files/GVG_049.png" alt="Gahz'rilla/"><img class="card_image" src="hunter_files/GVG_043.png" alt="Glaivezooka/"><img class="card_image" src="hunter_files/GVG_046.png" alt="King" of="" beasts=""><img class="card_image" src="hunter_files/GVG_048.png" alt="Metaltooth" leaper=""><img class="card_image" src="hunter_files/GVG_087.png" alt="Steamwheedle" sniper=""><img class="card_image" src="hunter_files/AT_063.png" alt="Acidmaw/"><img class="card_image" src="hunter_files/AT_062.png" alt="Ball" of="" spiders=""><img class="card_image" src="hunter_files/AT_060.png" alt="Bear" trap=""><img class="card_image" src="hunter_files/AT_059.png" alt="Brave" archer=""><img class="card_image" src="hunter_files/AT_063t.png" alt="Dreadscale/"><img class="card_image" src="hunter_files/AT_058.png" alt="King's" elekk=""><img class="card_image" src="hunter_files/AT_061.png" alt="Lock" and="" load=""><img class="card_image" src="hunter_files/AT_056.png" alt="Powershot/"><img class="card_image" src="hunter_files/AT_010.png" alt="Ram" wrangler=""><img class="card_image" src="hunter_files/AT_057.png" alt="Stablemaster/"></div>
+
+            <h1>Neutral Cards</h1>
+            <div id="neutral_cards"></div>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script><script src="hunter_files/jquery-1.js"></script>
+
+        <script src="hunter_files/threatmeter.js"></script>
+    
+
+</body></html>
