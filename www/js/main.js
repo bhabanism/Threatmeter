@@ -8,16 +8,28 @@ $('#hero').change(function() {
     loadCards();
 });
 
+$('#mana').change(function() {
+    $('#class_cards').empty();
+    $('#neutral_cards').empty();
+    loadCards();
+});
+
+$('#search').click(function() {
+    loadCards();
+});
+
 loadCards = function() {
     $.getJSON( "data/all-cards-local.json", function( data ) {
     
         var hero = $('#hero').val();         
+        var mana = $('#mana').val();
+        mana = getValidMana(mana);
 
         $.each( data, function( cards ) {
             if(this instanceof Array)
             { 
                 $.each( this, function( id , card ) {      
-                    if(isPlayableByClass(this, hero) && isManaCostBetween(this, 10, 0)  && isPlayableCard(card)) {                  
+                    if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, 0)  && isPlayableCard(card)) {                  
                         if(card.hero == "neutral") {
                             $('#neutral_cards').append('<img src='+card.image_url+' alt='+card.name+'/>'); 
                         } else {
@@ -29,6 +41,13 @@ loadCards = function() {
             }
         });
     });
+}
+
+getValidMana = function(mana) {
+    if(mana>100 || mana<0) {
+        mana = 100;
+    }
+    return mana;
 }
 
 isPlayableCard = function(card) {
