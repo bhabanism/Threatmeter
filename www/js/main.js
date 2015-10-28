@@ -2,15 +2,11 @@ $( document ).ready(function() {
     loadCards();
 });
 
-$('#hero').change(function() {
-    $('#class_cards').empty();
-    $('#neutral_cards').empty();
+$('#hero').change(function() {   
     loadCards();
 });
 
 $('#mana').change(function() {
-    $('#class_cards').empty();
-    $('#neutral_cards').empty();
     loadCards();
 });
 
@@ -19,6 +15,11 @@ $('#search').click(function() {
 });
 
 loadCards = function() {
+    
+    $('#class_cards').empty();
+    $('#neutral_cards').empty();
+    
+    
     $.getJSON( "data/all-cards-local.json", function( data ) {
     
         var hero = $('#hero').val();         
@@ -44,7 +45,7 @@ loadCards = function() {
 }
 
 getValidMana = function(mana) {
-    if(mana<=100 && mana>=0) {
+    if(mana<=100 && mana>=0 && mana!='') {
         return mana;
     }
     return 100;
