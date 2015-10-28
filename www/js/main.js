@@ -35,7 +35,7 @@ loadCards = function() {
     $('#neutral_cards').empty();
     
     
-    $.getJSON( "data/all-cards-local.json", function( data ) {
+    $.getJSON( "data/AllSets.enUS.json", function( data ) {
     
         var hero = $('#hero').val();         
         var mana = $('#mana').val();
@@ -46,10 +46,12 @@ loadCards = function() {
             { 
                 $.each( this, function( id , card ) {      
                     if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, 0)  && isPlayableCard(card)) {                  
-                        if(card.hero == "neutral") {
-                            $('#neutral_cards').append('<img src='+card.image_url+' alt='+card.name+'/>'); 
+                        if(card.playerClass === undefined) {
+                            $('#neutral_cards').append('<img src="http://wow.zamimg.com/images/hearthstone/cards/enus/medium/'+card.id+'.png" alt='+card.name+'/>');                        
                         } else {
-                            $('#class_cards').append('<img src='+card.image_url+' alt='+card.name+'/>');                         
+                            //$('#class_cards').append('<img src='+card.image_url+' alt='+card.name+'/>');                         
+                            $('#class_cards').append('<img src="http://wow.zamimg.com/images/hearthstone/cards/enus/medium/'+card.id+'.png" alt='+card.name+'/>');                         
+                            
                         }
 
                     }
@@ -74,9 +76,9 @@ isPlayableByClass = function(card, hero) {
     /*if(card.name == "Voidwalker") {
         console.log('wait');
     }*/
-    return (card.hero == hero || card.hero == "neutral");    
+    return (card.playerClass == hero || card.playerClass === undefined);    
 }
 
 isManaCostBetween = function(card, upperlimit, lowerlimit) {
-    return (card.mana <= upperlimit && card.mana >=lowerlimit);
+    return (card.cost <= upperlimit && card.cost >=lowerlimit);
 }
