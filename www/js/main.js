@@ -14,6 +14,21 @@ $('#search').click(function() {
     loadCards();
 });
 
+$('#endturn').click(function() {
+    var mana = $('#mana').val();
+    mana++;
+    $('#mana').val(mana);
+    loadCards();
+});
+
+$('#reset').click(function() {
+    var mana = $('#mana').val();
+    if(mana!=1) {
+        $('#mana').val(1);
+        loadCards();
+    } 
+});
+
 loadCards = function() {
     
     $('#class_cards').empty();
