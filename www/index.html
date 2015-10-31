@@ -19,10 +19,9 @@
     </head>
     <body>
         
-        <div id="cardsearch"> 
-            
-            <div>
-                <span>Opponent Class :</span>
+        <section id="cardsearch">             
+            <p>
+                <label>Opponent Class :</label>
                 <select id="hero">
                   <option value="Druid">Druid</option>
                   <option value="Hunter">Hunter</option>
@@ -33,28 +32,41 @@
                   <option value="Warlock">Warlock</option>
                   <option value="Warrior">Warrior</option>
                 </select>
-            </div>
+            </p>
             
-            <div>
-                <span>Mana :</span>
+            <p>
+                <label>Mana :</label>
                 <input type="text" id="mana" size="2" value="1"/>
-            </div>
+            </p>
         
-            <div>
+            <p>
                 <button id="search">Search</button>
                 <button id="endturn">End Turn</button>
                 <button id="reset">Reset</button>
-            </div>
-        
-        </div>
+            </p>        
+        </section>
 
-        <div id="cards">
+        <section id="cards">
             <h1>Class Cards</h1>
-            <div id="class_cards"></div>
+            
+            <div class="weapons">
+                <h2>Weapons</h2>            
+                <div id="weapons"></div>
+            </div>
+            <div class="spells">
+                <h2>Spells</h2>
+                <div id="spells"></div>
+            </div>
+            <div class="class_minions">
+                <h2>Minions</h2>
+                <div id="class_minions"></div>           
+            </div>
 
-            <h1>Neutral Cards</h1>
-            <div id="neutral_cards"></div>
-        </div>
+            <div class="neutral_minions">
+                <h1>Neutral Minions</h1>
+                <div id="neutral_minions"></div>
+            </div>
+        </section>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>

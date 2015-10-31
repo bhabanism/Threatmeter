@@ -31,8 +31,7 @@ $('#reset').click(function() {
 
 loadCards = function() {
     
-    $('#class_cards').empty();
-    $('#neutral_cards').empty();
+    clearCards();
     
     
     $.getJSON( "data/AllSets.enUS.json", function( data ) {
@@ -45,24 +44,31 @@ loadCards = function() {
             if(this instanceof Array)
             { 
                 $.each( this, function( id , card ) {      
-                    if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, 0)  && isPlayableCard(card)) {
-                        
+                    //if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, 0)  && isPlayableCard(card)) {
+                    if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, mana)  && isPlayableCard(card)) {
+                                                
                         //var imgSrc = 'http://wow.zamimg.com/images/hearthstone/cards/enus/medium/'+card.id+'.png';
                         var imgSrc = './img/cards/'+card.id+'.png';
                         
-                        if(card.playerClass === undefined) {
-                            $('#neutral_cards').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                        if(card.playerClass === undefined) {                            
+                            $('#neutral_minions').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
                         } else {
-                            //$('#class_cards').append('<img src='+card.image_url+' alt='+card.name+'/>');                         
-                            $('#class_cards').append('<img class="card_image"  src='+imgSrc+' alt='+card.name+'/>');                         
-                            
+                            if(card.type=="Weapon") {                                
+                                $('#weapons').append('<img class="card_image"  src='+imgSrc+' alt='+card.name+'/>');
+                            } else if(card.type=="Spell") {                                
+                                $('#spells').append('<img class="card_image"  src='+imgSrc+' alt='+card.name+'/>');
+                            } else {
+                                $('#class_minions').append('<img class="card_image"  src='+imgSrc+' alt='+card.name+'/>');
+                            }
                         }
 
                     }
                 });
             }
         });
+        showCards();
     });
+   
 }
 
 getValidMana = function(mana) {
@@ -85,4 +91,25 @@ isPlayableByClass = function(card, hero) {
 
 isManaCostBetween = function(card, upperlimit, lowerlimit) {
     return (card.cost <= upperlimit && card.cost >=lowerlimit);
+}
+
+clearCards = function() {    
+    $('#weapons').empty();
+    $('.weapons').hide();
+    
+    $('#spells').empty();
+    $('.spells').hide();
+    
+    $('#class_minions').empty();
+    $('.class_minions').hide();
+    
+    $('#neutral_minions').empty();    
+    $('.neutral_minions').hide();    
+}
+
+showCards = function() {
+    if($('#weapons').children().length>0) $('.weapons').show();    
+    if($('#spells').children().length>0) $('.spells').show();
+    if($('#class_minions').children().length>0) $('.class_minions').show();
+    if($('#neutral_minions').children().length>0) $('.neutral_minions').show();
 }

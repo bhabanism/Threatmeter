@@ -1,9 +1,12 @@
-#class_cards, #neutral_cards {
-    display : inline;
+section {
+    margin-left: 2%;
+}
+.weapons, .spells, .minions, neutral_minions {
+    display: none;    
 }
 
-#cards {
-    display: block;
+span {
+    margin: 10px;
 }
 
 .card_image  {
@@ -15,7 +18,58 @@
     width: 100%;
     margin-top: 25px;
 }
-#cardsearch div {    
+#cardsearch p {    
     width: 300px;
     margin: 0 auto;    
+}
+
+
+
+h1 {
+	font-family: 'Ubuntu Condensed';
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h2 {
+	font-family: 'Ubuntu Condensed';
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 22px;
+}
+h3 {
+	font-family: 'Ubuntu Condensed';
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: 'Ubuntu Condensed';
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: 'Ubuntu Condensed';
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: 'Ubuntu Condensed';
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
 }
