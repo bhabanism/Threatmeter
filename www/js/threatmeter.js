@@ -1,12 +1,18 @@
+var showThreatOnly = false;
 $( document ).ready(function() {
     loadCards();
 });
+
 
 $('#hero').change(function() {   
     loadCards();
 });
 
 $('#mana').change(function() {
+    loadCards();
+});
+
+$('#threat').change(function() {   
     loadCards();
 });
 
@@ -17,7 +23,6 @@ $('#search').unbind().click(function() {
 $('#endturn').unbind().click(function() {    
     var mana = $('#mana').val();
     mana++;
-    alert(mana);
     $('#mana').val(mana);
     loadCards();
     
@@ -35,6 +40,11 @@ loadCards = function() {
     
     clearCards();
     
+    if($('#threat').val()=="true") {
+        showThreatOnly = true;
+    } else {
+         showThreatOnly = false;
+    }
     
     $.getJSON( "data/AllSets.enUS.json", function( data ) {
     
@@ -47,7 +57,7 @@ loadCards = function() {
             { 
                 $.each( this, function( id , card ) {      
                     //if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, 0)  && isPlayableCard(card)) {
-                    var showThreatOnly = false; //todo get it from form.
+                     //todo get it from form.
                     if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, mana)  && isPlayableCard(card) && isThreatening(card, showThreatOnly)) {
                                                 
                         //var imgSrc = 'http://wow.zamimg.com/images/hearthstone/cards/enus/medium/'+card.id+'.png';
@@ -74,8 +84,7 @@ loadCards = function() {
    
 }
 
-isThreatening = function(card, showThreatOnly) {    
-    //alert(card.threat); //todo
+isThreatening = function(card, showThreatOnly) {        
     if(!showThreatOnly) {
         return true;
     }
