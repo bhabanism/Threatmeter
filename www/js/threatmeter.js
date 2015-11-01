@@ -10,15 +10,17 @@ $('#mana').change(function() {
     loadCards();
 });
 
-$('#search').click(function() {
+$('#search').unbind().click(function() {    
     loadCards();
 });
 
-$('#endturn').click(function() {
+$('#endturn').unbind().click(function() {    
     var mana = $('#mana').val();
     mana++;
+    alert(mana);
     $('#mana').val(mana);
     loadCards();
+    
 });
 
 $('#reset').click(function() {
