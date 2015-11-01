@@ -1,5 +1,5 @@
 section {
-    margin-left: 2%;
+    padding: 5%;
 }
 .weapons, .spells, .minions, neutral_minions {
     display: none;    
@@ -11,7 +11,7 @@ section {
 }
 
 section {
-    width: 50%;
+    max-width: 700px;
     min-width: 300px;
     margin: 0 auto;    
 }
