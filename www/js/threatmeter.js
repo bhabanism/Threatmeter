@@ -45,7 +45,8 @@ loadCards = function() {
             { 
                 $.each( this, function( id , card ) {      
                     //if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, 0)  && isPlayableCard(card)) {
-                    if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, mana)  && isPlayableCard(card) && isThreatening(showThreat)) {
+                    var showThreat = true; //todo get it from form.
+                    if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, mana)  && isPlayableCard(card) && isThreatening(card, showThreat)) {
                                                 
                         //var imgSrc = 'http://wow.zamimg.com/images/hearthstone/cards/enus/medium/'+card.id+'.png';
                         var imgSrc = './img/cards/'+card.id+'.png';
@@ -71,11 +72,13 @@ loadCards = function() {
    
 }
 
-isThreatening = function(showThreat) {
-    return true;
-   /* if(card.threat == true) {        
-        return true; //todo
-    }*/
+isThreatening = function(card, showThreat) {    
+    //alert(card.threat);
+    if(card.threat == undefined || card.threat != true) {        
+        return false;
+    } else {
+        return true;
+    }    
 }
 
 getValidMana = function(mana) {

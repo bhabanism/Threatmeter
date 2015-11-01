@@ -70,6 +70,7 @@
       "flavor": "You could summon Misha, Leokk, or Huffer!  Huffer is more trouble than he's worth.",
       "artist": "Wei Wang",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 45."
@@ -149,6 +150,7 @@
       "flavor": "No… actually you should fear the Reaper.",
       "artist": "Stefan Kopinski",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 51."
@@ -193,6 +195,7 @@
       "flavor": "Guaranteed to have been owned by a real assassin.   Certificate of authenticity included.",
       "artist": "Brian Huang",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 32."
@@ -208,6 +211,7 @@
       "flavor": "If you don't want to be assassinated, move to the Barrens and change your name. Good luck!",
       "artist": "Glenn Rane",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -233,6 +237,7 @@
       "flavor": "It's funny how often yelling \"Look over there!\" gets your opponent to turn around.",
       "artist": "Michael Sutfin",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -254,6 +259,7 @@
       "flavor": "Given the number of kings who have been assassinated, are you sure you want their blessing?",
       "artist": "Lucas Graciano",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49."
@@ -263,6 +269,7 @@
       "name": "Blessing of Kings",
       "type": "Enchantment",
       "text": "+4/+4.",
+      "threat" : true,
       "playerClass": "Paladin"
     },
     {
@@ -276,6 +283,7 @@
       "flavor": "\"As in, you MIGHT want to get out of my way.\" - Toad Mackle, recently buffed.",
       "artist": "Zoltan Boros",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 45."
@@ -314,6 +322,7 @@
       "flavor": "blaarghghLLGHRHARAAHAHHH!!",
       "artist": "Luca Zontini",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 40."
@@ -387,6 +396,7 @@
       "flavor": "\"ME HAVE GOOD STATS FOR THE COST\"",
       "artist": "Brian Despain",
       "collectible": true,
+      "threat" : true,
       "howToGetGold": "Unlocked at Warlock Level 51."
     },
     {
@@ -407,6 +417,7 @@
       "flavor": "\"Guys! Guys! Slow down!\" - some kind of non-warrior minion",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 23."
@@ -437,6 +448,7 @@
       "flavor": "He always dreamed of coming down from the mountains and opening a noodle shop, but he never got the nerve.",
       "artist": "Mauro Cascioli",
       "collectible": true,
+      "threat" : true,
       "howToGetGold": "Unlocked at Warrior Level 55."
     },
     {
@@ -460,7 +472,7 @@
       "flavor": "The claw decides who will stay and who will go.",
       "artist": "Dany Orizio",
       "collectible": true,
-      "threat": true,
+      "threat" : true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 32."
@@ -520,6 +532,7 @@
       "flavor": "Consecrated ground glows with Holy energy.  But it smells a little, too.",
       "artist": "Vance Kovacs",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 4.",
       "howToGetGold": "Unlocked at Level 43."
@@ -556,6 +569,7 @@
       "flavor": "It starts with stealing a pen from work, and before you know it, BOOM!  Corrupted!",
       "artist": "Wayne Reynolds",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 32."
@@ -623,6 +637,7 @@
       "flavor": "Rogues guard the secrets to poison-making carefully, lest magi start incorporating poison into their spells.  Poisonbolt? Rain of Poison?  Poison Elemental?  Nobody wants that.",
       "artist": "Trevor Jacobs",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 43."
@@ -637,6 +652,7 @@
       "flavor": "Double the trouble. Double the fun!",
       "artist": "Jim Pavelec",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 28."
@@ -694,6 +710,7 @@
       "flavor": "\"INFERNOOOOOOOOOO!\" - Jaraxxus, Eredar Lord of the Burning Legion",
       "artist": "Zoltan & Gabor",
       "collectible": true,
+      "threat" : true,
       "race": "Demon",
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 10.",
@@ -745,6 +762,7 @@
       "flavor": "It's okay, he deserved it.",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -767,6 +785,7 @@
       "flavor": "I wouldn't say I LOVE knives, but I'm definitely a fan.",
       "artist": "Andrew Robinson",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 4.",
       "howToGetGold": "Unlocked at Level 29."
@@ -783,6 +802,7 @@
       "flavor": "During times of tranquility and harmony, this weapon was called by its less popular name, Chilly Peace Axe.",
       "artist": "Lucas Graciano",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 49."
@@ -800,6 +820,7 @@
       "flavor": "He can never take a bath. Ewww.",
       "artist": "Ralph Horsley",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49.",
@@ -818,6 +839,7 @@
       "flavor": "This spell is useful for burning things.  If you're looking for spells that toast things, or just warm them a little, you're in the wrong place.",
       "artist": "Ralph Horsley",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 44."
@@ -843,6 +865,7 @@
       "flavor": "When the ground is on fire, you should <i>not</i> stop, drop, and roll.",
       "artist": "Romain De Santi",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 51."
@@ -868,6 +891,7 @@
       "flavor": "Totemsmiths like to use the rarest woods for their totems.  There are even rumors of totems made of Ironbark Protectors.",
       "artist": "Jonathan Ryder",
       "collectible": true,
+      "threat" : true,
       "race": "Totem",
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 4.",
@@ -939,6 +963,7 @@
       "flavor": "It is customary to yell \"Chill out!\" or \"Freeze!\" or \"Ice ice, baby!\" when you play this card.",
       "artist": "Steve Ellis",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 40.",
@@ -983,6 +1008,7 @@
       "flavor": "The Frostwolves are locked in combat with the Stormpike Expedition over control of Alterac Valley.  Every attempt at peace-talks has ended with Captain Galvangar killing the mediator.",
       "artist": "James Ryman",
       "collectible": true,
+      "threat" : true,
       "howToGetGold": "Unlocked at Shaman Level 53.",
       "mechanics": [
         "Battlecry"
@@ -1070,6 +1096,7 @@
       "flavor": "Holy beings from the beyond are so cliché!",
       "artist": "E.M. Gist",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 47.",
@@ -1113,6 +1140,7 @@
       "flavor": "A good paladin has many tools.  Hammer of Wrath, Pliers of Vengeance, Hacksaw of Justice, etc.",
       "artist": "Efrem Palacios",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 32."
@@ -1128,6 +1156,7 @@
       "flavor": "This spell has been renamed so many times, even paladins don’t know what it should be called anymore.",
       "artist": "Clint Langley",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 23."
@@ -1170,6 +1199,7 @@
       "flavor": "It's spells like these that make it hard for Warlocks to get decent help.",
       "artist": "Chippy",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 49."
@@ -1185,6 +1215,7 @@
       "flavor": "Really, if you're a hero, this is <i>every</i> strike.",
       "artist": "Jonboy Meyers",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 15."
@@ -1210,6 +1241,7 @@
       "flavor": "If you Hex a Murloc... it really isn't much of a change, is it?",
       "artist": "Steve Hui",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -1250,6 +1282,7 @@
       "flavor": "If the Holy Light forsakes you, good luck casting this spell.  Also, you're probably a jerk.",
       "artist": "Luca Zontini",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 45."
@@ -1283,6 +1316,7 @@
       "flavor": "\"Who let the dogs out?\" he asks.  It's rhetorical.",
       "artist": "Dan Brereton",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 28.",
@@ -1324,6 +1358,7 @@
       "flavor": "This card makes something really damp.  Oh wait.  That's \"Humidity.\"",
       "artist": "Daren Bader",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 28."
@@ -1339,6 +1374,7 @@
       "flavor": "Never play 'Hide and Go Seek' with a Hunter.",
       "artist": "Jimmy Lo",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 40."
@@ -1361,6 +1397,7 @@
       "flavor": "Some druids still have flashbacks from strangers yelling \"Innervate me!!\" at them.",
       "artist": "Doug Alexander",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -1378,6 +1415,7 @@
       "flavor": "I <i>dare</i> you to attack Darnassus.",
       "artist": "Dave Allsop",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49.",
@@ -1443,6 +1481,7 @@
       "flavor": "\"Kill!\", he commanded.",
       "artist": "Gabe from Penny Arcade",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49."
@@ -1477,6 +1516,7 @@
       "flavor": "The Kor'kron are the elite forces of Garrosh Hellscream. Let's just say you don't want to run into these guys while wearing a blue tabard.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 4.",
       "howToGetGold": "Unlocked at Level 44.",
@@ -1545,6 +1585,7 @@
       "flavor": "He used to be a 2100+ rated arena player, but that was years ago and nobody can get him to shut up about it.",
       "artist": "E.M. Gist",
       "collectible": true,
+      "threat" : true,
       "howToGetGold": "Unlocked at Priest Level 59.",
       "mechanics": [
         "Taunt"
@@ -1590,6 +1631,7 @@
       "flavor": "Not to be confused with Jim of the Wild.",
       "artist": "Brad Vancata",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 28."
@@ -1660,6 +1702,7 @@
       "flavor": "Nominated as \"Spell Most Likely to Make Your Opponent Punch the Wall.\"",
       "artist": "Sean O’Daniels",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49."
@@ -1756,6 +1799,7 @@
       "flavor": "If your spells look like horrifying skulls, let's be honest, you should get to draw some cards.",
       "artist": "Matt Gaser",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 4.",
       "howToGetGold": "Unlocked at Level 43."
@@ -1858,6 +1902,7 @@
       "flavor": "They help the downtrodden and distressed.  Also they sell cookies.",
       "artist": "Terese Nielsen",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 40.",
@@ -1938,6 +1983,7 @@
       "flavor": "There was going to be a pun in this flavor text, but it just came out baa-d.",
       "artist": "Vance Kovacs",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -1953,6 +1999,7 @@
       "flavor": "Sure the extra protection is nice, but the shield really reduces visibility.",
       "artist": "Jessica Jung",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -2072,6 +2119,7 @@
       "flavor": "This would be real handy if your enemy is made of rock.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -2101,6 +2149,7 @@
       "flavor": "Rogues love sappy movies.",
       "artist": "Scott Altmann",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 40."
@@ -2126,6 +2175,7 @@
       "flavor": "What do they roar? Nobody can quite tell, but it sounds like \"Elephant Macho Breeze\".  It's probably not that, though.",
       "artist": "Grace Liu",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 4.",
       "howToGetGold": "Unlocked at Level 43."
@@ -2155,6 +2205,7 @@
       "flavor": "Sen'jin Villiage is nice, if you like trolls and dust.",
       "artist": "Brian Despain",
       "collectible": true,
+      "threat" : true,
       "howToGetGold": "Unlocked at Rogue Level 59.",
       "mechanics": [
         "Taunt"
@@ -2171,6 +2222,7 @@
       "flavor": "It’s a Bolt.   Its made out of Shadow.   What more do you need to know!",
       "artist": "Dave Allsop",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -2185,6 +2237,7 @@
       "flavor": "If you miss, it leaves a lightning-bolt-shaped scar on your target.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 43."
@@ -2199,6 +2252,7 @@
       "flavor": "A step up from a spell cast by many beginning acolytes: \"Shadow Word: Annoy\".",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -2236,6 +2290,7 @@
       "flavor": "They always have a spare flask of Sunwell Energy Drink™!",
       "artist": "Doug Alexander",
       "collectible": true,
+      "threat" : true,
       "howToGetGold": "Unlocked at Priest Level 53.",
       "mechanics": [
         "Battlecry"
@@ -2348,6 +2403,7 @@
       "flavor": "Are you lighting a soul on fire? Or burning someone with your OWN soul? This seems like an important distinction.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 28."
@@ -2378,6 +2434,7 @@
       "flavor": "Balance is important to druids.  This card is perfectly balanced.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 45."
@@ -2477,6 +2534,7 @@
       "flavor": "When Deathwing assaulted the capital, this soldier was the only member of his squad to survive. Now he's all bitter and stuff.",
       "artist": "Doug Alexander",
       "collectible": true,
+      "threat" : true,
       "howToGetGold": "Unlocked at Paladin Level 59.",
       "mechanics": [
         "Aura"
@@ -2513,6 +2571,7 @@
       "flavor": "Warlocks have it pretty good.",
       "artist": "Matt Dixon",
       "collectible": true,
+      "threat" : true,
       "race": "Demon",
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 1.",
@@ -2532,6 +2591,7 @@
       "flavor": "When a bear rears back and extends his arms, he's about to Swipe!  ... or hug.",
       "artist": "Sean O’Daniels",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 47."
@@ -2638,6 +2698,7 @@
       "flavor": "It Slices, it Dices. You can cut a tin can with it. (But you wouldn't want to.)",
       "artist": "Ryan Sook",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 40."
@@ -2655,6 +2716,7 @@
       "flavor": "Tundra rhinos are often mistaken for kodos.  Or am I mistaken?",
       "artist": "Lars Grant-West",
       "collectible": true,
+      "threat" : true,
       "race": "Beast",
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 8.",
@@ -2689,6 +2751,7 @@
       "text": "Return all minions to their owner's hand.",
       "artist": "Sean O’Daniels",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 23."
@@ -2706,6 +2769,7 @@
       "flavor": "No relation to \"The Voidsteppers\", the popular Void-based dance troupe.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat" : true,
       "race": "Demon",
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 1.",
@@ -2744,6 +2808,7 @@
       "flavor": "Golems are not afraid, but for some reason they still run when you cast Fear on them.  Instinct, maybe?  A desire to blend in?",
       "artist": "Dave Kendall",
       "collectible": true,
+      "threat" : true,
       "howToGetGold": "Unlocked at Rogue Level 51."
     },
     {
@@ -2780,6 +2845,7 @@
       "flavor": "Don't summon a water elemental at a party.  It'll dampen the mood.",
       "artist": "John Avon",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 49.",
@@ -2798,6 +2864,7 @@
       "flavor": "The way to tell seasoned warriors from novice ones: the novices yell \"wheeeee\" while whirlwinding.",
       "artist": "Jonboy Meyers",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 32."
@@ -2824,6 +2891,7 @@
       "flavor": "Grow your own mana crystals with this Mana Crystal Growth Kit, only 39.99!",
       "artist": "James Ryman",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 23."
@@ -2839,6 +2907,7 @@
       "flavor": "Windfury is like Earthfury and Firefury, but more light and airy.",
       "artist": "Justin Sweet",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 23."
@@ -2856,6 +2925,7 @@
       "flavor": "Is there anything worse than a Windspeaker with halitosis?",
       "artist": "Vance Kovacs",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 45.",
@@ -2876,6 +2946,7 @@
       "flavor": "Orcish raiders ride wolves because they are well adapted to harsh environments, and because they are soft and cuddly.",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat" : true,
       "howToGetGold": "Unlocked at Warrior Level 59.",
       "mechanics": [
         "Charge"
@@ -3072,6 +3143,7 @@
       "flavor": "He got his name when he gave Blackwing some comic books and rock & roll records.",
       "artist": "Greg Staples",
       "collectible": true,
+      "threat" : true,
       "howToGet": "Unlocked by defeating Maloriak in the Hidden Laboratory.",
       "howToGetGold": "Can be crafted after defeating Maloriak in the Hidden Laboratory.",
       "mechanics": [
@@ -3091,6 +3163,7 @@
       "flavor": "This is who you go to when your Blackwing needs a tune up. Don't go to a cut rate Blackwing tune up shop!",
       "artist": "Matt Dixon",
       "collectible": true,
+      "threat" : true,
       "howToGet": "Unlocked by defeating Baron Geddon in Molten Core.",
       "howToGetGold": "Can be crafted after defeating Baron Geddon in Molten Core.",
       "mechanics": [
@@ -3255,6 +3328,7 @@
       "artist": "Todd Lockwood",
       "collectible": true,
       "elite": true,
+      "threat" : true,
       "race": "Dragon",
       "howToGet": "Unlocked by completing Blackwing Lair.",
       "howToGetGold": "Can be crafted after completing Blackwing Lair."
@@ -3383,6 +3457,7 @@
       "flavor": "He loves skulking. He skulks after hours just for the joy of it, but his friends are pretty worried he'll get burnt out.",
       "artist": "Eric Braddock",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked by completing the Rogue Class Challenge in Blackrock Mountain.",
       "howToGetGold": "Can be crafted after completing the Rogue Class Challenge in Blackrock Mountain.",
@@ -3412,6 +3487,7 @@
       "flavor": "Demons are not angry most of the time. You have to play this card in order to really bring it out of them.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked by completing the Warlock Class Challenge in Blackrock Mountain.",
       "howToGetGold": "Can be crafted after completing the Warlock Class Challenge in Blackrock Mountain.",
@@ -3481,6 +3557,7 @@
       "flavor": "Everybody wants someone to snuggle with. Even giant armored scaly draconic beasts of destruction.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat" : true,
       "race": "Dragon",
       "playerClass": "Paladin",
       "howToGet": "Unlocked by defeating General Drakkisath in Blackrock Spire.",
@@ -3514,6 +3591,7 @@
       "flavor": "Dragons breathe fire, sure, but did you know they can also breathe Cotton Candy?  It's harder to give them a reason to do that, though.",
       "artist": "Mauricio Herrera",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Mage",
       "howToGet": "Unlocked by completing the Mage Class Challenge in Blackrock Mountain.",
       "howToGetGold": "Can be crafted after completing the Mage Class Challenge in Blackrock Mountain."
@@ -3558,6 +3636,7 @@
       "flavor": "Dragonkin Sorcerers be all \"I'm a wizard\" and everyone else be all \"daaaaang\".",
       "artist": "Edouard Guiton & Stuido HIVE",
       "collectible": true,
+      "threat" : true,
       "race": "Dragon",
       "howToGet": "Unlocked by defeating Nefarian in the Hidden Laboratory.",
       "howToGetGold": "Can be crafted after defeating Nefarian in the Hidden Laboratory."
@@ -3590,6 +3669,7 @@
       "flavor": "Drakonids were created to have all the bad parts of a dragon in the form of a humaniod. But, like, why?",
       "artist": "Slawomir Maniak",
       "collectible": true,
+      "threat" : true,
       "race": "Dragon",
       "howToGet": "Unlocked by defeating Atramedes in the Hidden Laboratory.",
       "howToGetGold": "Can be crafted after defeating Atramedes in the Hidden Laboratory.",
@@ -3609,6 +3689,7 @@
       "flavor": "Druids who fought too long in Northrend were easily seduced by Ragnaros; a mug of hot chocolate was generally all it took.",
       "artist": "Stanley Lau",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Druid",
       "howToGet": "Unlocked by defeating Garr in Molten Core.",
       "howToGetGold": "Can be crafted after defeating Garr in Molten Core."
@@ -3703,6 +3784,7 @@
       "artist": "Wayne Reynolds",
       "collectible": true,
       "elite": true,
+      "threat" : true,
       "howToGet": "Unlocked by completing Blackrock Depths.",
       "howToGetGold": "Can be crafted after completing Blackrock Depths."
     },
@@ -3750,6 +3832,7 @@
       "flavor": "Ragnaros interviews hundreds of Fire Elementals for the position of \"Destroyer\" but very few have what it takes.",
       "artist": "Paul Mafayon",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked by defeating Lord Victor Nefarius in Blackwing Lair.",
       "howToGetGold": "Can be crafted after defeating Lord Victor Nefarius in Blackwing Lair.",
@@ -3801,6 +3884,7 @@
       "flavor": "Flamewakers HATE being confused for Flamewalkers. They just wake up fire, they don’t walk on it. Walking on fire is CRAZY.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Mage",
       "howToGet": "Unlocked by defeating Vaelastrasz in Blackwing Lair.",
       "howToGetGold": "Can be crafted after defeating Vaelastrasz in Blackwing Lair."
@@ -3951,6 +4035,7 @@
       "flavor": "Hungry Hungry Dragon is NOT a fun game.",
       "artist": "John Polidora",
       "collectible": true,
+      "threat" : true,
       "race": "Dragon",
       "howToGet": "Unlocked by defeating Chromaggus in Blackwing Lair.",
       "howToGetGold": "Can be crafted after defeating Chromaggus in Blackwing Lair.",
@@ -4000,6 +4085,7 @@
       "flavor": "His imp gang likes to sneak into Stormwind to spraypaint \"Ragnaros Rulez\" on the Mage Tower.",
       "artist": "Steve Prescott",
       "collectible": true,
+      "threat" : true,
       "race": "Demon",
       "playerClass": "Warlock",
       "howToGet": "Unlocked by defeating Majordomo Executus in Molten Core.",
@@ -4203,6 +4289,7 @@
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
       "elite": true,
+      "threat" : true,
       "howToGet": "Unlocked by completing Molten Core.",
       "howToGetGold": "Can be crafted after completing Molten Core.",
       "mechanics": [
@@ -4289,6 +4376,7 @@
       "artist": "Ruan Jia",
       "collectible": true,
       "elite": true,
+      "threat" : true,
       "race": "Dragon",
       "howToGet": "Unlocked by defeating every boss in Blackrock Mountain!",
       "howToGetGold": "Can be crafted after completing the Hidden Laboratory.",
@@ -4468,6 +4556,7 @@
       "flavor": "Han shot first.",
       "artist": "Jonboy Meyers",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked by completing the Hunter Class Challenge in Blackrock Mountain.",
       "howToGetGold": "Can be crafted after completing the Hunter Class Challenge in Blackrock Mountain.",
@@ -4809,6 +4898,7 @@
       "flavor": "Volcanic Drakes breathe lava instead of fire. The antacid vendor at Thorium Point does a brisk business with them.",
       "artist": "Lucas Graciano",
       "collectible": true,
+      "threat" : true,
       "race": "Dragon",
       "howToGet": "Unlocked by defeating Omnotron Defense System in the Hidden Laboratory.",
       "howToGetGold": "Can be crafted after defeating Omnotron Defense System in the Hidden Laboratory."
@@ -4825,6 +4915,7 @@
       "flavor": "The roots, the roots, the roots is on fire!",
       "artist": "Trent Kaniuga",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Druid",
       "howToGet": "Unlocked by completing the Druid Class Challenge in Blackrock Mountain.",
       "howToGetGold": "Can be crafted after completing the Druid Class Challenge in Blackrock Mountain.",
@@ -4906,6 +4997,7 @@
       "flavor": "Abominations enjoy Fresh Meat and long walks on the beach.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat" : true,
       "mechanics": [
         "Deathrattle",
         "Taunt"
@@ -4924,6 +5016,7 @@
       "flavor": "ADD ME TO YOUR DECK, MAGGOT!",
       "artist": "Luca Zontini",
       "collectible": true,
+      "threat" : true,
       "mechanics": [
         "Battlecry"
       ]
@@ -4954,6 +5047,7 @@
       "artist": "Raymond Swanland",
       "collectible": true,
       "elite": true,
+      "threat" : true,
       "playerClass": "Shaman",
       "mechanics": [
         "Charge",
@@ -4989,6 +5083,7 @@
       "flavor": "The Aldor hate two things: the Scryers and smooth jazz.",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -5008,6 +5103,7 @@
       "artist": "Raymond Swanland",
       "collectible": true,
       "elite": true,
+      "threat" : true,
       "race": "Dragon",
       "mechanics": [
         "Battlecry"
@@ -5032,6 +5128,7 @@
       "flavor": "If an Amani berserker asks \"Joo lookin' at me?!\", the correct response is \"Nah, mon\".",
       "artist": "Chippy",
       "collectible": true,
+      "threat" : true,
       "mechanics": [
         "Enrage"
       ]
@@ -5102,6 +5199,7 @@
       "flavor": "Go ahead, carve your initials in him.",
       "artist": "Patrik Hjelm",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Druid"
     },
     {
@@ -5117,6 +5215,7 @@
       "flavor": "Young Night Elves love to play \"Who can get the Ancient of War to Uproot?\"  You lose if you get crushed to death.",
       "artist": "Sean O’Daniels",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Druid"
     },
     {
@@ -5177,6 +5276,7 @@
       "flavor": "50% off fist weapons, limited time only!",
       "artist": "Samwise",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warrior",
       "mechanics": [
         "Battlecry"
@@ -5214,6 +5314,7 @@
       "artist": "Wayne Reynolds",
       "collectible": true,
       "elite": true,
+      "threat" : true,
       "playerClass": "Mage"
     },
     {
@@ -5229,6 +5330,7 @@
       "flavor": "The Argent Dawn stands vigilant against the Scourge, as well as people who cut in line at coffee shops.",
       "artist": "James Ryman",
       "collectible": true,
+      "threat" : true,
       "mechanics": [
         "Charge",
         "Divine Shield"
@@ -5247,6 +5349,7 @@
       "flavor": "\"I'm not saying you can dodge fireballs.  I'm saying with this shield, you won't have to.\"",
       "artist": "Doug Alexander",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -5308,6 +5411,7 @@
       "flavor": "The Auchenai know the end is coming, but they're not sure when.",
       "artist": "Doug Alexander",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Priest",
       "mechanics": [
         "Aura"
@@ -5324,6 +5428,7 @@
       "flavor": "Wham! Wham! Wham! Wham! Wham! Wham! Wham! Wham!",
       "artist": "Alex Garner",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Paladin",
       "mechanics": [
         "ImmuneToSpellpower"
@@ -5342,6 +5447,7 @@
       "flavor": "They initially planned to be the Beryl or Cerulean drakes, but those felt a tad too pretentious.",
       "artist": "Ben Zhang",
       "collectible": true,
+      "threat" : true,
       "race": "Dragon",
       "mechanics": [
         "Battlecry",
@@ -5382,6 +5488,7 @@
       "flavor": "My advice to you is to avoid Doom, if possible.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warlock"
     },
     {
@@ -5398,6 +5505,7 @@
       "artist": "Ian Ameling",
       "collectible": true,
       "elite": true
+      "threat" : true,
     },
     {
       "id": "EX1_398t",
@@ -5419,6 +5527,7 @@
       "flavor": "\"You won't like me when I'm angry.\"",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warrior"
     },
     {
@@ -5471,6 +5580,7 @@
       "flavor": "Everyone has a price. Gnomes, for example, can be persuaded by stuffed animals and small amounts of chocolate.",
       "artist": "Lucas Graciano",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Rogue"
     },
     {
@@ -5485,6 +5595,7 @@
       "flavor": "Mere devilsaurs no longer excite him.  Soon he'll be trying to catch Onyxia with only a dull Krol Blade.",
       "artist": "Chris Seaman",
       "collectible": true,
+      "threat" : true,
       "mechanics": [
         "Battlecry"
       ]
@@ -5522,6 +5633,7 @@
       "flavor": "\"Look, it's not just about waving daggers around really fast.  It's a lot more complicated than that.\" - Shan, Rogue Trainer",
       "artist": "Hideaki Takamura",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Rogue",
       "mechanics": [
         "AffectedBySpellPower"
@@ -5589,6 +5701,7 @@
       "flavor": "This spell can be very Entertaining.",
       "artist": "Chris Seaman",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Mage",
       "mechanics": [
         "Freeze"
@@ -5635,6 +5748,7 @@
       "flavor": "The Blood Knights get their holy powers from the Sunwell, which you should NOT bathe in.",
       "artist": "Trent Kaniuga",
       "collectible": true,
+      "threat" : true,
       "mechanics": [
         "Battlecry"
       ]
@@ -5723,6 +5837,7 @@
       "flavor": "Do you know the first rule of Brawl Club?",
       "artist": "Wayne Reynolds",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warrior"
     },
     {
@@ -5738,6 +5853,7 @@
       "flavor": "You never know who may be secretly working for the Cabal....",
       "artist": "Chippy",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Priest",
       "mechanics": [
         "Battlecry"
@@ -5757,6 +5873,7 @@
       "artist": "Wayne Reynolds",
       "collectible": true,
       "elite": true,
+      "threat" : true,
       "mechanics": [
         "Deathrattle"
       ]
@@ -5780,6 +5897,7 @@
       "artist": "Dan Scott",
       "collectible": true,
       "elite": true,
+      "threat" : true,
       "race": "Pirate",
       "mechanics": [
         "Battlecry"
@@ -5809,6 +5927,7 @@
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
       "elite": true,
+      "threat" : true,
       "playerClass": "Druid"
     },
     {
@@ -5821,6 +5940,7 @@
       "flavor": "It isn't really a circle.",
       "artist": "Daarken",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Priest"
     },
     {
@@ -5848,6 +5968,7 @@
       "flavor": "\"I'm cold blooded, check it and see!\"",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
@@ -5952,6 +6073,7 @@
       "flavor": "Magi of the Kirin Tor were casting Cubes of Cold for many years before Cones came into fashion some 90 years ago.",
       "artist": "Leo Che",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Mage",
       "mechanics": [
         "Freeze"
@@ -5975,6 +6097,7 @@
       "flavor": "What's the difference between a mage playing with Counterspell and a mage who isn't?  The mage who isn't is getting Pyroblasted in the face.",
       "artist": "Jason Chan",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Mage",
       "mechanics": [
         "Secret"
@@ -6010,6 +6133,7 @@
       "flavor": "\"I'm going to need you to come in on Sunday.\" - Cruel Taskmaster",
       "artist": "Phroilan Gardner",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Warrior",
       "mechanics": [
         "Battlecry"
@@ -6029,6 +6153,7 @@
       "flavor": "She may be an evil cult master, but she still calls her parents once a week.",
       "artist": "Raymond Swanland",
       "collectible": true
+      "threat" : true,
     },
     {
       "id": "skele21",
@@ -6054,6 +6179,7 @@
       "flavor": "Guardians of Dark Iron Ore.  Perhaps the most annoying ore, given where you have to forge it.",
       "artist": "Scott Hampton",
       "collectible": true,
+      "threat" : true,
       "mechanics": [
         "Battlecry"
       ]
@@ -6069,6 +6195,7 @@
       "flavor": "Accuracy is not a highly valued trait among the mok'nathal.  Deadliness is near the top, though.",
       "artist": "Steve Prescott",
       "collectible": true,
+      "threat" : true,
       "playerClass": "Hunter"
     },
     {
@@ -6084,6 +6211,7 @@
       "artist": "Bernie Kang",
       "collectible": true,
       "elite": true,
+      "threat" : true,
       "race": "Dragon",
       "mechanics": [
         "Battlecry"

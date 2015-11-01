@@ -13,7 +13,6 @@
       "flavor": "Oozes love Flamenco.  Don't ask.",
       "artist": "Chris Rahn",
       "collectible": true,
-      "threat" : true,
       "howToGetGold": "Unlocked at Rogue Level 57.",
       "mechanics": [
         "Battlecry"
@@ -460,7 +459,6 @@
       "flavor": "The claw decides who will stay and who will go.",
       "artist": "Dany Orizio",
       "collectible": true,
-      "threat": true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 32."
