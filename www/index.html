@@ -20,31 +20,33 @@
     </head>
     <body>
         
-        <section id="cardsearch">             
-            <div>
-                <label>Opponent Class :</label>
-                <select id="hero">
-                  <option value="Druid">Druid</option>
-                  <option value="Hunter">Hunter</option>
-                  <option value="Mage">Mage</option>
-                  <option value="Paladin">Paladin</option>
-                  <option value="Priest">Priest</option>
-                  <option value="Shaman">Shaman</option>              
-                  <option value="Warlock">Warlock</option>
-                  <option value="Warrior">Warrior</option>
-                </select>
-            </div>
-            
-            <div>
-                <label>Mana :</label>
-                <input type="text" id="mana" size="2" value="1"/>
-            </div>
-        
-            <div>
-                <button id="search">Search</button>
-                <button id="endturn">End Turn</button>
-                <button id="reset">Reset</button>
-            </div>        
+        <section id="cardsearch"> 
+            <form>
+                <div class="ui-field-contain">
+                    <label for="hero">Opponent Class :</label>
+                    <select id="hero" name="hero" data-iconpos="left">
+                      <option value="Druid">Druid</option>
+                      <option value="Hunter">Hunter</option>
+                      <option value="Mage">Mage</option>
+                      <option value="Paladin">Paladin</option>
+                      <option value="Priest">Priest</option>
+                      <option value="Shaman">Shaman</option>              
+                      <option value="Warlock">Warlock</option>
+                      <option value="Warrior">Warrior</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label>Mana :</label>
+                    <input type="text" id="mana" size="2" value="1"/>
+                </div>
+
+                <div>
+                    <button id="search">Search</button>
+                    <button id="endturn">End Turn</button>
+                    <button id="reset">Reset</button>
+                </div>  
+            </form>
         </section>
 
         <section id="cards">
