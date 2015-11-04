@@ -5311,6 +5311,7 @@
       "flavor": "The Argent Dawn stands vigilant against the Scourge, as well as people who cut in line at coffee shops.",
       "artist": "James Ryman",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Charge",
         "Divine Shield"
@@ -5428,6 +5429,7 @@
       "flavor": "They initially planned to be the Beryl or Cerulean drakes, but those felt a tad too pretentious.",
       "artist": "Ben Zhang",
       "collectible": true,
+      "threat": true,
       "race": "Dragon",
       "mechanics": [
         "Battlecry",
@@ -6220,6 +6222,7 @@
       "flavor": "You wouldn’t think that Argus would need this much defending.  But it does.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -6625,6 +6628,7 @@
       "flavor": "The Sholazar Basin is home to a lot of really horrible things. If you're going to visit, wear bug spray.  And plate armor.",
       "artist": "Lars Grant-West",
       "collectible": true,
+      "threat": true,
       "race": "Beast",
       "mechanics": [
         "Poisonous"
@@ -7386,7 +7390,8 @@
       "inPlayText": "Imp Master",
       "flavor": "She would enjoy the job a lot more if she just could get the imps to QUIT BITING HER.",
       "artist": "Mark Gibbons",
-      "collectible": true
+      "collectible": true,
+      "threat": true
     },
     {
       "id": "EX1_tk34",
@@ -7636,7 +7641,8 @@
       "text": "After you summon a minion, deal 1 damage to a random enemy.",
       "flavor": "Ambitious Knife Jugglers sometimes graduate to Bomb Jugglers.    They never last long enough to make it onto a card though.",
       "artist": "Matt Cavotta",
-      "collectible": true
+      "collectible": true,
+      "threat": true
     },
     {
       "id": "DREAM_01",
@@ -8110,6 +8116,7 @@
       "flavor": "Mind Control technology is getting better, but that's not saying much.",
       "artist": "Leo Che",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -9360,6 +9367,7 @@
       "flavor": "This Kodo is so big that he can stampede by <i>himself</i>.",
       "artist": "Daren Bader",
       "collectible": true,
+      "threat": true,
       "race": "Beast",
       "mechanics": [
         "Battlecry"
@@ -9499,6 +9507,7 @@
       "flavor": "She doesn’t ACTUALLY walk on the Sun.  It's just a name.  Don’t worry!",
       "artist": "Andrea Uderzo",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Divine Shield",
         "Taunt"
@@ -9912,7 +9921,8 @@
       "text": "Whenever you cast a spell, summon a 1/1 Violet Apprentice.",
       "flavor": "If you don't pay attention, you may be turned into a pig.  And then you get your name on the board.",
       "artist": "James Ryman",
-      "collectible": true
+      "collectible": true,
+      "threat": true
     },
     {
       "id": "EX1_304",
@@ -11318,6 +11328,7 @@
       "flavor": "DO NOT GIVE HIM A ROOT BEER.",
       "artist": "Nate Bowden",
       "collectible": true,
+      "threat": true,
       "howToGet": "Unlocked by defeating Loatheb in the Plague Quarter.",
       "howToGetGold": "Can be crafted after defeating Loatheb in the Plague Quarter.",
       "mechanics": [
@@ -11908,6 +11919,7 @@
       "flavor": "He lobbies Orgrimmar daily on behalf of bombs.",
       "artist": "Luca Zontini",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -12931,6 +12943,7 @@
       "flavor": "Dang, Bomber, calm down.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -15651,6 +15664,7 @@
       "flavor": "Needs just a few more ratings points to become Grandmaster Jouster.",
       "artist": "Penny Arcade",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
