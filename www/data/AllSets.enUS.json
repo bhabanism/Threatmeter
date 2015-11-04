@@ -561,6 +561,7 @@
       "flavor": "It starts with stealing a pen from work, and before you know it, BOOM!  Corrupted!",
       "artist": "Wayne Reynolds",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 32."
@@ -700,6 +701,7 @@
       "flavor": "\"INFERNOOOOOOOOOO!\" - Jaraxxus, Eredar Lord of the Burning Legion",
       "artist": "Zoltan & Gabor",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 10.",
@@ -1184,6 +1186,7 @@
       "flavor": "It's spells like these that make it hard for Warlocks to get decent help.",
       "artist": "Chippy",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 49."
@@ -1780,6 +1783,7 @@
       "flavor": "If your spells look like horrifying skulls, let's be honest, you should get to draw some cards.",
       "artist": "Matt Gaser",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 4.",
       "howToGetGold": "Unlocked at Level 43."
@@ -2115,6 +2119,7 @@
       "flavor": "This is the reason that Demons never really become friends with Warlocks.",
       "artist": "Jim Nelson",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 15."
@@ -2201,6 +2206,7 @@
       "flavor": "It’s a Bolt.   Its made out of Shadow.   What more do you need to know!",
       "artist": "Dave Allsop",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -2380,6 +2386,7 @@
       "flavor": "Are you lighting a soul on fire? Or burning someone with your OWN soul? This seems like an important distinction.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 28."
@@ -2546,6 +2553,7 @@
       "flavor": "Warlocks have it pretty good.",
       "artist": "Matt Dixon",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 1.",
@@ -2742,6 +2750,7 @@
       "flavor": "No relation to \"The Voidsteppers\", the popular Void-based dance troupe.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 1.",
@@ -3450,6 +3459,7 @@
       "flavor": "Demons are not angry most of the time. You have to play this card in order to really bring it out of them.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked by completing the Warlock Class Challenge in Blackrock Mountain.",
       "howToGetGold": "Can be crafted after completing the Warlock Class Challenge in Blackrock Mountain.",
@@ -4042,6 +4052,7 @@
       "flavor": "His imp gang likes to sneak into Stormwind to spraypaint \"Ragnaros Rulez\" on the Mage Tower.",
       "artist": "Steve Prescott",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "howToGet": "Unlocked by defeating Majordomo Executus in Molten Core.",
@@ -5436,6 +5447,7 @@
       "flavor": "My advice to you is to avoid Doom, if possible.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock"
     },
     {
@@ -6331,6 +6343,7 @@
       "flavor": "Summoning a doomguard is risky. <i>Someone</i> is going to die.",
       "artist": "Lucas Graciano",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
@@ -6769,6 +6782,7 @@
       "flavor": "Yes, he'll fight for you.  BUT HE'S NOT GOING TO LIKE IT.",
       "artist": "John Polidora",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
@@ -6834,6 +6848,7 @@
       "flavor": "Imps like being on fire.  They just do.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
@@ -7795,6 +7810,7 @@
       "flavor": "\"TRIFLING GNOME! YOUR ARROGANCE WILL BE YOUR UNDOING!!!!\"",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Demon",
       "playerClass": "Warlock",
@@ -8452,6 +8468,7 @@
       "flavor": "Mannoroth, Magtheridon, and Brutallus may be dead, but it turns out there are a LOT of pit lords.",
       "artist": "Glenn Rane",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
@@ -8493,6 +8510,7 @@
       "flavor": "We cannot even describe how horrible the death is.  It's CRAZY bad!  Maybe worse than that.  Just don't do it.",
       "artist": "Tom Baxa",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock"
     },
     {
@@ -8875,6 +8893,7 @@
       "flavor": "Start with a powerful minion and stir in Shadowflame and you have a good time!",
       "artist": "Dave Kendall",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock",
       "mechanics": [
         "AffectedBySpellPower"
@@ -9038,6 +9057,7 @@
       "flavor": "You probably should avoid siphoning your own soul.  You might create some kind of weird infinite loop.",
       "artist": "Tyler Walpole",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock"
     },
     {
@@ -9693,6 +9713,7 @@
       "flavor": "The Twisting Nether is a formless place of magic and illusion and destroyed minions.",
       "artist": "Dave Allsop",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock"
     },
     {
@@ -9840,6 +9861,7 @@
       "flavor": "If you put this into your deck, you WILL lose the trust of your other minions.",
       "artist": "Alexander Alexandrov",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
@@ -11530,6 +11552,7 @@
       "flavor": "\"Void!  Here, void!  Here, buddy!\"",
       "artist": "Robb Shoberg",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "howToGet": "Unlocked by completing the Warlock Class Challenge in Naxxramas.",
@@ -11656,6 +11679,7 @@
       "flavor": "The Dark Animus is evil and mysterious and huge and unable to write sentences that utilize proper grammar.",
       "artist": "Josh Harris",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "playerClass": "Warlock"
     },
@@ -12253,6 +12277,7 @@
       "flavor": "The box says, \"New and improved, with 200% more fel!\"",
       "artist": "Matt Gaser",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "playerClass": "Warlock"
     },
@@ -12319,6 +12344,7 @@
       "flavor": "\"Evil Eye Watcher of Doom\" was the original name, but marketing felt it was a bit too aggressive.",
       "artist": "Todd Lockwood",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock"
     },
@@ -12639,6 +12665,7 @@
       "flavor": "The shrapnel is waaaaay worse than the explosion.",
       "artist": "Jaemin Kim",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock"
     },
     {
@@ -12839,6 +12866,7 @@
       "flavor": "Mal'Ganis doesn't like being betrayed, so if you discard him, watch out.",
       "artist": "Wayne Reynolds",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Demon",
       "playerClass": "Warlock",
@@ -14609,6 +14637,7 @@
       "flavor": "A prime example of lose-lose negotiating.",
       "artist": "Paul Mafayon",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock"
     },
     {
@@ -14910,6 +14939,7 @@
       "flavor": "They were originally called Cuddleguards, but they were not inspiring the proper amount of fear.",
       "artist": "Anton Zemskov",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock"
     },
@@ -16311,6 +16341,7 @@
       "flavor": "\"No, no, no. I asked for a tiny JESTER of evil.\"",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock"
     },
@@ -16503,6 +16534,7 @@
       "flavor": "We like to call him \"Wesley\".",
       "artist": "Skan Srisuwan",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
@@ -16566,6 +16598,7 @@
       "flavor": "He can summon anything, even a FEARSOME DOOMGUARD*.\n*He's pretty sure this is going to work out.",
       "artist": "Tooth",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Warlock"
     },
@@ -16597,6 +16630,7 @@
       "flavor": "After playing against 5 Annoy-O-Trons, any normal guard will become a Wrathguard.",
       "artist": "Sojin Hwang",
       "collectible": true,
+      "threat": true,
       "race": "Demon",
       "playerClass": "Warlock"
     },
