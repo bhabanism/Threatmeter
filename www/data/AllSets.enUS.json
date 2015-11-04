@@ -150,6 +150,7 @@
       "flavor": "No… actually you should fear the Reaper.",
       "artist": "Stefan Kopinski",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 51."
@@ -490,6 +491,7 @@
       "flavor": "Hey you two…could you stand next to each other for a second…",
       "artist": "Phroilan Gardner",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 40."
@@ -753,6 +755,7 @@
       "flavor": "It's okay, he deserved it.",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -791,6 +794,7 @@
       "flavor": "During times of tranquility and harmony, this weapon was called by its less popular name, Chilly Peace Axe.",
       "artist": "Lucas Graciano",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 49."
@@ -1202,6 +1206,7 @@
       "flavor": "Really, if you're a hero, this is <i>every</i> strike.",
       "artist": "Jonboy Meyers",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 15."
@@ -1502,6 +1507,7 @@
       "flavor": "The Kor'kron are the elite forces of Garrosh Hellscream. Let's just say you don't want to run into these guys while wearing a blue tabard.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 4.",
       "howToGetGold": "Unlocked at Level 44.",
@@ -2844,6 +2850,7 @@
       "flavor": "The way to tell seasoned warriors from novice ones: the novices yell \"wheeeee\" while whirlwinding.",
       "artist": "Jonboy Meyers",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 32."
@@ -4639,6 +4646,7 @@
       "flavor": "This is better than Arcane Explosion, so I guess warriors are finally getting revenge on mages for Mortal Strike being worse than Fireball.",
       "artist": "Ben Olson",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked by defeating Razorgore in Blackwing Lair.",
       "howToGetGold": "Can be crafted after defeating Razorgore in Blackwing Lair."
@@ -5238,6 +5246,7 @@
       "flavor": "50% off fist weapons, limited time only!",
       "artist": "Samwise",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "mechanics": [
         "Battlecry"
@@ -5346,6 +5355,7 @@
       "flavor": "She accepts guild funds for repairs!",
       "artist": "Greg Hildebrandt",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior"
     },
     {
@@ -5792,6 +5802,7 @@
       "flavor": "Do you know the first rule of Brawl Club?",
       "artist": "Wayne Reynolds",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior"
     },
     {
@@ -6084,6 +6095,7 @@
       "flavor": "\"I'm going to need you to come in on Sunday.\" - Cruel Taskmaster",
       "artist": "Phroilan Gardner",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "mechanics": [
         "Battlecry"
@@ -6971,6 +6983,7 @@
       "flavor": "He used to work as an accountant before he tried his hand at Berserkering.",
       "artist": "Simon Bisley",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior"
     },
     {
@@ -7041,6 +7054,7 @@
       "flavor": "Grommash Hellscream's famous axe.  Somehow this ended up in Prince Malchezaar's possession.  Quite the mystery!",
       "artist": "Zoltan & Gabor",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior"
     },
     {
@@ -7062,6 +7076,7 @@
       "flavor": "Grommash drank the tainted blood of Mannoroth, dooming the orcs to green skin and red eyes!  Maybe not his best decision.",
       "artist": "Glenn Rane",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Warrior",
       "mechanics": [
@@ -7423,6 +7438,7 @@
       "flavor": "They're only smiling on the outside.",
       "artist": "Slawomir Maniak",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior"
     },
     {
@@ -8650,6 +8666,7 @@
       "flavor": "Minion get ANGRY.   Minion SMASH!",
       "artist": "Jonboy Meyers",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior"
     },
     {
@@ -8956,6 +8973,7 @@
       "flavor": "\"What is a better weapon? The sharp one your enemies expect, or the blunt one they ignore?\" - The Art of Warrior, Chapter 9",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "mechanics": [
         "AffectedBySpellPower"
@@ -9071,6 +9089,7 @@
       "flavor": "\"Dun da dun, dun da dun\": if you've heard an ogre sing this, it's too late.",
       "artist": "E.M. Gist",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior"
     },
     {
@@ -10243,6 +10262,7 @@
       "flavor": "\"Take a bite outta Death.\" - McScruff the Deathlord",
       "artist": "Jim Nelson",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked by completing the Warrior Class Challenge in Naxxramas.",
       "howToGetGold": "Can be crafted after completing the Warrior Class Challenge in Naxxramas.",
@@ -11862,6 +11882,7 @@
       "flavor": "Only goblins would think this was a good idea. Even they are starting to have their doubts.",
       "artist": "Andrew Hou",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior"
     },
     {
@@ -12058,6 +12079,7 @@
       "flavor": "Using this card on your enemies is one of the best things in life, according to some barbarians.",
       "artist": "Michael Sutfin",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior"
     },
     {
@@ -12680,6 +12702,7 @@
       "flavor": "The Iron Juggernaut guards Orgrimmar and has just earned the \"Employee of the Month\" award!",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Mech",
       "playerClass": "Warrior",
@@ -13165,6 +13188,7 @@
       "flavor": "Simple, misguided, and incredibly dangerous. You know, like most things ogre.",
       "artist": "Richard Wright",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior"
     },
     {
@@ -13519,6 +13543,7 @@
       "flavor": "She has three shieldbearers in her party to supply her with back ups when she gets low on durability.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "mechanics": [
         "Battlecry"
@@ -14244,6 +14269,7 @@
       "flavor": "You might think bashing doesn't take a lot of practice.  It doesn't.",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior"
     },
     {
@@ -15308,6 +15334,7 @@
       "flavor": "\"King's Attacker\" is a shield.  Funny, huh?",
       "artist": "Michael Franchina",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warrior",
       "mechanics": [
         "Battlecry"
@@ -16504,6 +16531,7 @@
       "flavor": "Leader of the Alliance!  Father of Anduin!  Also he likes to play Arena, and he averages 12 wins.",
       "artist": "Wei Wang",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Warrior",
       "mechanics": [
