@@ -5574,6 +5574,7 @@
       "flavor": "Mere devilsaurs no longer excite him.  Soon he'll be trying to catch Onyxia with only a dull Krol Blade.",
       "artist": "Chris Seaman",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -5728,6 +5729,7 @@
       "flavor": "The Blood Knights get their holy powers from the Sunwell, which you should NOT bathe in.",
       "artist": "Trent Kaniuga",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -6763,6 +6765,7 @@
       "flavor": "The Faceless Ones are servants of Yogg-Saron, and they feed on fear. Right now they are feeding on your fear of accidentally disenchanting all your good cards.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -8875,7 +8878,8 @@
       "text": "Costs (1) less for each other minion on the battlefield.",
       "flavor": "See?  Giant.",
       "artist": "Svetlin Velinov",
-      "collectible": true
+      "collectible": true,
+      "threat": true
     },
     {
       "id": "EX1_080",
@@ -11215,6 +11219,7 @@
       "flavor": "The Shades of Naxxramas <i>hate</i> the living. They even have a slur they use to refer them: <i>Livers</i>.",
       "artist": "Ittoku Seta",
       "collectible": true,
+      "threat": true,
       "howToGet": "Unlocked by defeating Kel'Thuzad in the Frostwyrm Lair.",
       "howToGetGold": "Can be crafted after defeating Kel'Thuzad in the Frostwyrm Lair.",
       "mechanics": [
@@ -12364,6 +12369,7 @@
       "flavor": "So reaver. Much fel. Wow.",
       "artist": "Zoltan & Gabor",
       "collectible": true,
+      "threat": true,
       "race": "Mech"
     },
     {
@@ -13300,6 +13306,7 @@
       "flavor": "The pinnacle of goblin engineering. Includes an espresso machine and foot massager.",
       "artist": "Michael Phillippi",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "mechanics": [
         "Deathrattle"
@@ -15173,7 +15180,8 @@
       "text": "Costs (1) less for each time you used your Hero Power this game.",
       "flavor": "Don't ask him about the beard.  JUST DON'T.",
       "artist": "Greg Staples",
-      "collectible": true
+      "collectible": true,
+      "threat": true
     },
     {
       "id": "AT_133",
@@ -15234,6 +15242,7 @@
       "flavor": "A veteran of a number of crusades, she is a force for light and goodness.  Her latest crusade is against goblin telemarketers.",
       "artist": "Todd Lockwood",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -15453,6 +15462,7 @@
       "flavor": "Someone called her a Rhinorider, and she's NOT HAPPY.",
       "artist": "Ben Wootten",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Inspire"
       ]
