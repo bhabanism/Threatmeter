@@ -1361,6 +1361,7 @@
       "flavor": "Some druids still have flashbacks from strangers yelling \"Innervate me!!\" at them.",
       "artist": "Doug Alexander",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -1378,6 +1379,7 @@
       "flavor": "I <i>dare</i> you to attack Darnassus.",
       "artist": "Dave Allsop",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49.",
@@ -2126,6 +2128,7 @@
       "flavor": "What do they roar? Nobody can quite tell, but it sounds like \"Elephant Macho Breeze\".  It's probably not that, though.",
       "artist": "Grace Liu",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 4.",
       "howToGetGold": "Unlocked at Level 43."
@@ -2378,6 +2381,7 @@
       "flavor": "Balance is important to druids.  This card is perfectly balanced.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 45."
@@ -2532,6 +2536,7 @@
       "flavor": "When a bear rears back and extends his arms, he's about to Swipe!  ... or hug.",
       "artist": "Sean O’Daniels",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 47."
@@ -3609,6 +3614,7 @@
       "flavor": "Druids who fought too long in Northrend were easily seduced by Ragnaros; a mug of hot chocolate was generally all it took.",
       "artist": "Stanley Lau",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid",
       "howToGet": "Unlocked by defeating Garr in Molten Core.",
       "howToGetGold": "Can be crafted after defeating Garr in Molten Core."
@@ -4825,6 +4831,7 @@
       "flavor": "The roots, the roots, the roots is on fire!",
       "artist": "Trent Kaniuga",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid",
       "howToGet": "Unlocked by completing the Druid Class Challenge in Blackrock Mountain.",
       "howToGetGold": "Can be crafted after completing the Druid Class Challenge in Blackrock Mountain.",
@@ -5117,6 +5124,7 @@
       "flavor": "Young Night Elves love to play \"Who can get the Ancient of War to Uproot?\"  You lose if you get crushed to death.",
       "artist": "Sean O’Daniels",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -5808,6 +5816,7 @@
       "flavor": "Yes, he's a demigod. No, he doesn't need to wear a shirt.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Druid"
     },
@@ -6359,6 +6368,7 @@
       "flavor": "Cat or Bear?  Cat or Bear?!  I just cannot CHOOSE!",
       "artist": "Luca Zontini",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -6814,6 +6824,7 @@
       "flavor": "\"I think I'll just nap under these trees. Wait... AAAAAHHH!\" - Blinkfizz, the Unfortunate Gnome",
       "artist": "Trevor Jacobs",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -7395,6 +7406,7 @@
       "flavor": "These guys just show up and start Keeping your Groves without even asking.",
       "artist": "Gabor Szikszai",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -7848,6 +7860,7 @@
       "flavor": "Druids call it the \"Mark of Nature.\"  Everyone else calls it \"needing a bath.\"",
       "artist": "Clint Langley",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -8168,6 +8181,7 @@
       "flavor": "Another one bites the dust.",
       "artist": "Leo Che",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -8387,6 +8401,7 @@
       "flavor": "Never look a panther in the eye.  Or is it 'Always look a panther in the eye'?  Well, it's one of those.",
       "artist": "Steve Tappin",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -9212,6 +9227,7 @@
       "flavor": "Is the sky falling?  Yes.  Yes it is.",
       "artist": "Richard Wright",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -9857,6 +9873,7 @@
       "flavor": "The talk around the Ratchet Inn is that this card is too good and should be a Legendary.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -11928,6 +11945,7 @@
       "flavor": "Don't worry; we fired the person who named this card.",
       "artist": "Trent Kaniuga",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -11961,6 +11979,7 @@
       "flavor": "If you're looking to make an \"Emo\" deck, this card is perfect!",
       "artist": "Jeff Haynie",
       "collectible": true,
+      "threat": true,
       "playerClass": "Warlock"
     },
     {
@@ -12022,6 +12041,7 @@
       "flavor": "The Druids of the Fang live in the Wailing Caverns. They wear cool snake shirts and tell snake jokes and say \"bro\" a lot.",
       "artist": "Brandon Kitkouski",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid",
       "mechanics": [
         "Battlecry"
@@ -12730,6 +12750,7 @@
       "flavor": "When Malorne isn't mauling hordes of demons, he enjoys attending parties, though he prefers to go stag.",
       "artist": "Oliver Chipping",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Beast",
       "playerClass": "Druid",
@@ -12749,6 +12770,7 @@
       "flavor": "Crushes buildings with his BEAR hands.",
       "artist": "Trent Kaniuga",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "playerClass": "Druid"
     },
@@ -13159,6 +13181,7 @@
       "flavor": "Druidic recycling involves putting plastics in one bin and enemy minions in another bin.",
       "artist": "Efrem Palacios",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -14033,6 +14056,7 @@
       "flavor": "Call her \"Tweety\".  She'll find it real funny.  I PROMISE.",
       "artist": "Velvet Engine",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Druid",
       "mechanics": [
@@ -14479,6 +14503,7 @@
       "flavor": "She loves mana crystals, she hates mana crystals.   So fickle!",
       "artist": "Laurel Austin",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid",
       "mechanics": [
         "Battlecry",
@@ -14603,6 +14628,7 @@
       "flavor": "That's saberTEETH, not like curved pirate blades.  That's a different kind of druid.  Druid of the Curved Pirate Blades.",
       "artist": "Arthur Gimaldinov",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -15272,6 +15298,7 @@
       "flavor": "2 out of 2 saplings recommend that you summon the saplings.",
       "artist": "Dan Brereton",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -15438,6 +15465,7 @@
       "flavor": "Is this a noun or a verb?  We will never know.",
       "artist": "Dan Scott",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid"
     },
     {
@@ -15792,6 +15820,7 @@
       "flavor": "Maybe if you whistle a tune it will soothe him.  Yeah...  Try that.",
       "artist": "Alex Pascenko",
       "collectible": true,
+      "threat": true,
       "race": "Beast",
       "playerClass": "Druid",
       "mechanics": [
@@ -16370,6 +16399,7 @@
       "flavor": "She was born to be something.  She is just not quite sure what yet...",
       "artist": "James Ryman",
       "collectible": true,
+      "threat": true,
       "playerClass": "Druid",
       "mechanics": [
         "Battlecry"
