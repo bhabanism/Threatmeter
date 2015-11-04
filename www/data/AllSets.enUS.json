@@ -13,7 +13,6 @@
       "flavor": "Oozes love Flamenco.  Don't ask.",
       "artist": "Chris Rahn",
       "collectible": true,
-      "threat" : true,
       "howToGetGold": "Unlocked at Rogue Level 57.",
       "mechanics": [
         "Battlecry"
@@ -116,6 +115,7 @@
       "flavor": "You'd think you'd be able to control your missiles a little better since you're a powerful mage and all.",
       "artist": "Warren Mahy",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 32.",
@@ -819,6 +819,7 @@
       "flavor": "This spell is useful for burning things.  If you're looking for spells that toast things, or just warm them a little, you're in the wrong place.",
       "artist": "Ralph Horsley",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 44."
@@ -844,6 +845,7 @@
       "flavor": "When the ground is on fire, you should <i>not</i> stop, drop, and roll.",
       "artist": "Romain De Santi",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 51."
@@ -940,6 +942,7 @@
       "flavor": "It is customary to yell \"Chill out!\" or \"Freeze!\" or \"Ice ice, baby!\" when you play this card.",
       "artist": "Steve Ellis",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 40.",
@@ -1945,6 +1948,7 @@
       "flavor": "There was going to be a pun in this flavor text, but it just came out baa-d.",
       "artist": "Vance Kovacs",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -2791,6 +2795,7 @@
       "flavor": "Don't summon a water elemental at a party.  It'll dampen the mood.",
       "artist": "John Avon",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 49.",
@@ -3813,6 +3818,7 @@
       "flavor": "Flamewakers HATE being confused for Flamewalkers. They just wake up fire, they don’t walk on it. Walking on fire is CRAZY.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "howToGet": "Unlocked by defeating Vaelastrasz in Blackwing Lair.",
       "howToGetGold": "Can be crafted after defeating Vaelastrasz in Blackwing Lair."
@@ -5228,6 +5234,7 @@
       "flavor": "Antonidas was the Grand Magus of the Kirin Tor, and Jaina's mentor.  This was a big step up from being Grand Magus of Jelly Donuts.",
       "artist": "Wayne Reynolds",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Mage"
     },
@@ -5604,6 +5611,7 @@
       "flavor": "This spell can be very Entertaining.",
       "artist": "Chris Seaman",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "mechanics": [
         "Freeze"
@@ -5968,6 +5976,7 @@
       "flavor": "Magi of the Kirin Tor were casting Cubes of Cold for many years before Cones came into fashion some 90 years ago.",
       "artist": "Leo Che",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "mechanics": [
         "Freeze"
@@ -5991,6 +6000,7 @@
       "flavor": "What's the difference between a mage playing with Counterspell and a mage who isn't?  The mage who isn't is getting Pyroblasted in the face.",
       "artist": "Jason Chan",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "mechanics": [
         "Secret"
@@ -7504,6 +7514,7 @@
       "flavor": "The Kirin Tor reside in the floating city of Dalaran.  How do you make a Dalaran float?  Two scoops of ice cream, one scoop of Dalaran.",
       "artist": "Popo Wei",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "mechanics": [
         "Battlecry"
@@ -7861,6 +7872,7 @@
       "flavor": "These wyrms feed on arcane energies, and while they are generally considered a nuisance rather than a real threat, you really shouldn't leave them alone with a bucket of mana.",
       "artist": "Blizzard Cinematics",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage"
     },
     {
@@ -8037,6 +8049,7 @@
       "flavor": "\"You go first.\" - Krush'gor the Behemoth, to his pet boar.",
       "artist": "Raven Mimura",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "mechanics": [
         "Secret"
@@ -8506,6 +8519,7 @@
       "flavor": "Take the time for an evil laugh after you draw this card.",
       "artist": "Luca Zontini",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage"
     },
     {
@@ -8702,7 +8716,6 @@
       "flavor": "Never wash your whites with a Scarlet Crusader.",
       "artist": "Gonzalo Ordonez",
       "collectible": true,
-      "threat": true,
       "mechanics": [
         "Divine Shield"
       ]
@@ -9112,6 +9125,7 @@
       "flavor": "While it's fun to intercept enemy lightning bolts, a spellbender much prefers to intercept opposing Marks of the Wild.  It just feels meaner.  And blood elves... well, they're a little mean.",
       "artist": "Gonzalo Ordonez",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "mechanics": [
         "Secret"
@@ -9710,6 +9724,7 @@
       "flavor": "Rumor has it that Deathwing brought about the Cataclysm after losing a game to this card.  We may never know the truth.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "mechanics": [
         "Secret"
@@ -10220,6 +10235,7 @@
       "flavor": "The one time when duping cards won't get your account banned!",
       "artist": "Alex Garner",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "howToGet": "Unlocked by completing the Mage Class Challenge in Naxxramas.",
       "howToGetGold": "Can be crafted after completing the Mage Class Challenge in Naxxramas.",
@@ -12223,6 +12239,7 @@
       "flavor": "Calling something a flamecannon really doesn't do much to distinguish it from other goblin devices.",
       "artist": "Mauricio Herrera",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage"
     },
     {
@@ -12445,6 +12462,7 @@
       "flavor": "If you can't find a bomb to throw, just pick up any goblin invention and throw that.",
       "artist": "Glenn Rane",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "mechanics": [
         "Battlecry"
@@ -13987,6 +14005,7 @@
       "flavor": "Now with 100% more blast!",
       "artist": "Gabor Szikszai",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage"
     },
     {
@@ -14492,6 +14511,7 @@
       "flavor": "Is he aspiring or inspiring?  Make up your mind!",
       "artist": "Dan Scott",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "mechanics": [
         "Inspire"
@@ -14684,6 +14704,7 @@
       "flavor": "Burning man, brah.",
       "artist": "Tooth",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "mechanics": [
         "Secret"
@@ -14789,6 +14810,7 @@
       "flavor": "And he can't get up.",
       "artist": "Arthur Bozonnet",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage"
     },
     {
@@ -14894,6 +14916,7 @@
       "flavor": "It's on the rack next to ice lance, acid lance, and English muffin lance.",
       "artist": "Nutthapon Petchthai",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage"
     },
     {
@@ -15648,6 +15671,7 @@
       "flavor": "It's always Huffer.",
       "artist": "Mike Sass",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage"
     },
     {
@@ -15763,6 +15787,7 @@
       "flavor": "A masterless shamurai.",
       "artist": "Zoltan & Gabor",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Mage",
       "mechanics": [
@@ -16079,6 +16104,7 @@
       "flavor": "Does he sling spells, or do his spells linger about.  Who can say?",
       "artist": "Andrew Hou",
       "collectible": true,
+      "threat": true,
       "playerClass": "Mage",
       "mechanics": [
         "Battlecry"
