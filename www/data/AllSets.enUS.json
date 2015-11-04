@@ -395,6 +395,7 @@
       "flavor": "\"ME HAVE GOOD STATS FOR THE COST\"",
       "artist": "Brian Despain",
       "collectible": true,
+      "threat": true,
       "howToGetGold": "Unlocked at Warlock Level 51."
     },
     {
@@ -445,6 +446,7 @@
       "flavor": "He always dreamed of coming down from the mountains and opening a noodle shop, but he never got the nerve.",
       "artist": "Mauro Cascioli",
       "collectible": true,
+      "threat": true,
       "howToGetGold": "Unlocked at Warrior Level 55."
     },
     {
@@ -1004,6 +1006,7 @@
       "flavor": "The Frostwolves are locked in combat with the Stormpike Expedition over control of Alterac Valley.  Every attempt at peace-talks has ended with Captain Galvangar killing the mediator.",
       "artist": "James Ryman",
       "collectible": true,
+      "threat": true,
       "howToGetGold": "Unlocked at Shaman Level 53.",
       "mechanics": [
         "Battlecry"
@@ -2201,6 +2204,7 @@
       "flavor": "Sen'jin Villiage is nice, if you like trolls and dust.",
       "artist": "Brian Despain",
       "collectible": true,
+      "threat": true,
       "howToGetGold": "Unlocked at Rogue Level 59.",
       "mechanics": [
         "Taunt"
@@ -2285,6 +2289,7 @@
       "flavor": "They always have a spare flask of Sunwell Energy Drink™!",
       "artist": "Doug Alexander",
       "collectible": true,
+      "threat": true,
       "howToGetGold": "Unlocked at Priest Level 53.",
       "mechanics": [
         "Battlecry"
@@ -2528,6 +2533,7 @@
       "flavor": "When Deathwing assaulted the capital, this soldier was the only member of his squad to survive. Now he's all bitter and stuff.",
       "artist": "Doug Alexander",
       "collectible": true,
+      "threat": true,
       "howToGetGold": "Unlocked at Paladin Level 59.",
       "mechanics": [
         "Aura"
@@ -3652,6 +3658,7 @@
       "flavor": "Drakonids were created to have all the bad parts of a dragon in the form of a humaniod. But, like, why?",
       "artist": "Slawomir Maniak",
       "collectible": true,
+      "threat": true,
       "race": "Dragon",
       "howToGet": "Unlocked by defeating Atramedes in the Hidden Laboratory.",
       "howToGetGold": "Can be crafted after defeating Atramedes in the Hidden Laboratory.",
@@ -4017,6 +4024,7 @@
       "flavor": "Hungry Hungry Dragon is NOT a fun game.",
       "artist": "John Polidora",
       "collectible": true,
+      "threat": true,
       "race": "Dragon",
       "howToGet": "Unlocked by defeating Chromaggus in Blackwing Lair.",
       "howToGetGold": "Can be crafted after defeating Chromaggus in Blackwing Lair.",
@@ -4883,6 +4891,7 @@
       "flavor": "Volcanic Drakes breathe lava instead of fire. The antacid vendor at Thorium Point does a brisk business with them.",
       "artist": "Lucas Graciano",
       "collectible": true,
+      "threat": true,
       "race": "Dragon",
       "howToGet": "Unlocked by defeating Omnotron Defense System in the Hidden Laboratory.",
       "howToGetGold": "Can be crafted after defeating Omnotron Defense System in the Hidden Laboratory."
@@ -4999,6 +5008,7 @@
       "flavor": "ADD ME TO YOUR DECK, MAGGOT!",
       "artist": "Luca Zontini",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -5110,6 +5120,7 @@
       "flavor": "If an Amani berserker asks \"Joo lookin' at me?!\", the correct response is \"Nah, mon\".",
       "artist": "Chippy",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Enrage"
       ]
@@ -6135,7 +6146,8 @@
       "inPlayText": "Cultist",
       "flavor": "She may be an evil cult master, but she still calls her parents once a week.",
       "artist": "Raymond Swanland",
-      "collectible": true
+      "collectible": true,
+      "threat": true
     },
     {
       "id": "skele21",
@@ -6161,6 +6173,7 @@
       "flavor": "Guardians of Dark Iron Ore.  Perhaps the most annoying ore, given where you have to forge it.",
       "artist": "Scott Hampton",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -6574,6 +6587,7 @@
       "flavor": "He can see really far, and he doesn't use a telescope like those filthy pirates.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -6843,6 +6857,7 @@
       "flavor": "He used to be called Bog Beast, but it confused people because he wasn't an actual beast.   Boom, New Name!",
       "artist": "Monica Langlois",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Taunt"
       ]
@@ -6992,6 +7007,7 @@
       "flavor": "When a Water elemental and an Ice elemental love each other VERY much...",
       "artist": "Dan Scott",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry",
         "Freeze"
@@ -7172,6 +7188,7 @@
       "flavor": "\"Overheat threshold exceeded. System failure. Wheat clog in port two. Shutting down.\"",
       "artist": "Brian Despain",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "mechanics": [
         "Deathrattle"
@@ -7899,6 +7916,7 @@
       "flavor": "He's not really all that crazy, he is just not as careful with explosives as he should be.",
       "artist": "Mike Sass",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -8852,6 +8870,7 @@
       "flavor": "Never wash your whites with a Scarlet Crusader.",
       "artist": "Gonzalo Ordonez",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Divine Shield"
       ]
@@ -9092,6 +9111,7 @@
       "flavor": "It's good to be a knight.   Less so to be one's squire.",
       "artist": "Matt Starbuck",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -9297,6 +9317,7 @@
       "flavor": "Spellbreakers can rip enchantments from magic-wielders.  The process is painless and can be performed on an outpatient basis.",
       "artist": "Matt Cavotta",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -9439,6 +9460,7 @@
       "flavor": "The wonderful thing about tigers is tigers are wonderful things!",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "race": "Beast",
       "mechanics": [
         "Stealth"
@@ -10038,6 +10060,7 @@
       "flavor": "If you want to stop a worgen from infiltrating, just yell, \"No! Bad boy!\"",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Stealth"
       ]
@@ -10653,6 +10676,7 @@
       "flavor": "Arachnofauxbia: Fear of fake spiders.",
       "artist": "Jeremy Cranford",
       "collectible": true,
+      "threat": true,
       "race": "Beast",
       "howToGet": "Unlocked by defeating Anub'Rekhan in the Arachnid Quarter.",
       "howToGetGold": "Can be crafted after defeating Anub'Rekhan in the Arachnid Quarter.",
@@ -11348,6 +11372,7 @@
       "flavor": "What do Faerie Dragons and Spectral Knights have in common?  They both love pasta!",
       "artist": "Chris Rahn",
       "collectible": true,
+      "threat": true,
       "howToGet": "Unlocked by defeating Gothik the Harvester in the Military Quarter.",
       "howToGetGold": "Can be crafted after defeating Gothik the Harvester in the Military Quarter."
     },
@@ -11733,6 +11758,7 @@
       "flavor": "Zombie.  It's what's for dinner.",
       "artist": "E. M. Gist",
       "collectible": true,
+      "threat": true,
       "howToGet": "Unlocked by defeating Gluth in the Construct Quarter.",
       "howToGetGold": "Can be crafted after defeating Gluth in the Construct Quarter.",
       "mechanics": [
@@ -12482,6 +12508,7 @@
       "flavor": "There is a factory in Tanaris for crafting force-tanks, but it only ever made two, because of cost overruns.",
       "artist": "Nutchapol Thitinunthakorn",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "mechanics": [
         "Divine Shield"
@@ -12551,6 +12578,7 @@
       "flavor": "\"Shhh, I think I hear something.\"\n\"Ah, it's probably nothing.\" - Every Henchman",
       "artist": "Seamus Gallagher",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Stealth"
       ]
@@ -13016,6 +13044,7 @@
       "flavor": "The yetis of Chillwind Point are a source of both inspiration and savage beatings.",
       "artist": "Chris Seaman",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "mechanics": [
         "Deathrattle"
@@ -13302,6 +13331,7 @@
       "flavor": "Once upon a time, only goblins piloted shredders. These days, everyone from Doomsayer to Lorewalker Cho seems to ride one.",
       "artist": "Dan Scott",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "mechanics": [
         "Deathrattle"
@@ -13764,6 +13794,7 @@
       "flavor": "\"What if we put guns on it?\" -Fizzblitz, staring at the spider-transportation-machine",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat": true,
       "race": "Mech"
     },
     {
@@ -14234,6 +14265,7 @@
       "flavor": "His horse's name is Betsy.",
       "artist": "Evgeniy Zagumennyy",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Charge",
         "Divine Shield"
@@ -15130,6 +15162,7 @@
       "flavor": "At first he liked juggling chain saws, but then he thought, \"Flames are better!  Because FIRE!\"",
       "artist": "James Zhang",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -15492,6 +15525,7 @@
       "flavor": "Coming soon... to a tuskarr village near you!",
       "artist": "Trent Kaniuga",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Inspire"
       ]
@@ -15829,6 +15863,7 @@
       "flavor": "You have no idea how tired this guy is of being released.",
       "artist": "Seamus Gallagher",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -15868,7 +15903,8 @@
       "health": 6,
       "flavor": "What did the pits ever do to you?",
       "artist": "Alex Horley Orlandelli",
-      "collectible": true
+      "collectible": true,
+      "threat": true
     },
     {
       "id": "AT_034",
@@ -16253,6 +16289,7 @@
       "flavor": "He used to be a librarian.  Old habits die hard.",
       "artist": "Esad Ribic",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Divine Shield",
         "Stealth"
