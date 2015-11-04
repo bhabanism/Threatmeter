@@ -1,5 +1,4 @@
-var showThreatOnly = false;
-$( document ).ready(function() {
+$(document).ready(function() {
     loadCards();
 });
 
@@ -39,7 +38,7 @@ $('#reset').click(function() {
 loadCards = function() {
     
     clearCards();
-    
+    var showThreatOnly = false;    
     if($('#threat').val()=="true") {
         showThreatOnly = true;
     } else {
@@ -106,10 +105,7 @@ isPlayableCard = function(card) {
   return (card.collectible == true && card.category!= "hero");
 }
 
-isPlayableByClass = function(card, hero) { 
-    /*if(card.name == "Voidwalker") {
-        console.log('wait');
-    }*/
+isPlayableByClass = function(card, hero) {     
     return (card.playerClass == hero || card.playerClass === undefined);    
 }
 
@@ -117,7 +113,7 @@ isManaCostBetween = function(card, upperlimit, lowerlimit) {
     return (card.cost <= upperlimit && card.cost >=lowerlimit);
 }
 
-clearCards = function() {    
+clearCards = function() {
     $('#weapons').empty();
     $('.weapons').hide();
     
