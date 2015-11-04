@@ -317,6 +317,7 @@
       "flavor": "blaarghghLLGHRHARAAHAHHH!!",
       "artist": "Luca Zontini",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 40."
@@ -805,6 +806,7 @@
       "flavor": "He can never take a bath. Ewww.",
       "artist": "Ralph Horsley",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49.",
@@ -875,6 +877,7 @@
       "flavor": "Totemsmiths like to use the rarest woods for their totems.  There are even rumors of totems made of Ironbark Protectors.",
       "artist": "Jonathan Ryder",
       "collectible": true,
+      "threat": true,
       "race": "Totem",
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 4.",
@@ -1221,6 +1224,7 @@
       "flavor": "If you Hex a Murloc... it really isn't much of a change, is it?",
       "artist": "Steve Hui",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -2096,6 +2100,7 @@
       "flavor": "This would be real handy if your enemy is made of rock.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -2888,6 +2893,7 @@
       "flavor": "Is there anything worse than a Windspeaker with halitosis?",
       "artist": "Vance Kovacs",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 45.",
@@ -3784,6 +3790,7 @@
       "flavor": "Ragnaros interviews hundreds of Fire Elementals for the position of \"Destroyer\" but very few have what it takes.",
       "artist": "Paul Mafayon",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked by defeating Lord Victor Nefarius in Blackwing Lair.",
       "howToGetGold": "Can be crafted after defeating Lord Victor Nefarius in Blackwing Lair.",
@@ -4094,6 +4101,7 @@
       "flavor": "Chocolate lava cake is shockingly delicious.",
       "artist": "Zoltan Boros",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked by completing the Shaman Class Challenge in Blackrock Mountain.",
       "howToGetGold": "Can be crafted after completing the Shaman Class Challenge in Blackrock Mountain."
@@ -4991,6 +4999,7 @@
       "flavor": "He is the weakest of the four Elemental Lords.  And the other three don't let him forget it.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Shaman",
       "mechanics": [
@@ -5093,6 +5102,7 @@
       "flavor": "It was just a flesh wound.",
       "artist": "Zoltan & Gabor",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman"
     },
     {
@@ -6341,6 +6351,7 @@
       "flavor": "Orgrim Doomhammer gave this legendary weapon to Thrall.  His name is a total coincidence.",
       "artist": "John Polidora",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload",
@@ -6478,6 +6489,7 @@
       "flavor": "Nothing beats rock.",
       "artist": "Dan Scott",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload",
@@ -6495,6 +6507,7 @@
       "flavor": "Earth Shock? Shouldn't it be \"Azeroth Shock\"?",
       "artist": "Kevin Chin",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Silence"
@@ -6791,6 +6804,7 @@
       "flavor": "Spirit wolves are like regular wolves with pom-poms.",
       "artist": "Clint Langley",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload"
@@ -6887,6 +6901,7 @@
       "flavor": "If you combine it with Spooned Lightning and Knived Lightning, you have the full dining set.",
       "artist": "Ralph Horsley",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload"
@@ -7584,6 +7599,7 @@
       "flavor": "It's like an ocean of liquid magma in your mouth!",
       "artist": "Dan Scott",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload"
@@ -7671,6 +7687,7 @@
       "flavor": "Lightning Bolt! Lightning Bolt! Lightning Bolt!",
       "artist": "Daarken",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload"
@@ -7687,6 +7704,7 @@
       "flavor": "An umbrella won't be effective, I'm afraid.",
       "artist": "Christopher Moeller",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload"
@@ -7870,6 +7888,7 @@
       "flavor": "It is said that some shaman can say \"Floatin' totem\" 10 times, fast.",
       "artist": "Scott Altmann",
       "collectible": true,
+      "threat": true,
       "race": "Totem",
       "playerClass": "Shaman"
     },
@@ -9312,6 +9331,7 @@
       "flavor": "Yo, that's a nice axe.",
       "artist": "Nate Bowden",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload"
@@ -9688,6 +9708,7 @@
       "flavor": "Unlike bound elementals, Unbound ones really enjoy a night on the town.",
       "artist": "Matt Gaser",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman"
     },
     {
@@ -11997,6 +12018,7 @@
       "flavor": "Snap! This card! Pop!",
       "artist": "Warren Mahy",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload"
@@ -13065,6 +13087,7 @@
       "flavor": "Neptulon is \"The Tidehunter\". He’s one of the four elemental lords. And he and Ragnaros get together and make really amazing saunas.",
       "artist": "Ruan Jia",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Shaman",
       "mechanics": [
@@ -13200,6 +13223,7 @@
       "flavor": "People assume that shamans control the elements, but really, they have to ask them stuff and the elements are like, \"Yeah ok, sure.\"",
       "artist": "Zoltan and Gabor",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Deathrattle"
@@ -13962,6 +13986,7 @@
       "flavor": "If you pay a little extra, you can get it in \"candy-apple red.\"",
       "artist": "Jim Nelson",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "playerClass": "Shaman",
       "mechanics": [
@@ -14376,6 +14401,7 @@
       "flavor": "You can only pick it up if you are worthy.",
       "artist": "Peet Cooper",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Deathrattle"
@@ -14652,6 +14678,7 @@
       "flavor": "It's nice to find a real craftsman in this day and age of mass-produced totems.",
       "artist": "RK Post",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Battlecry"
@@ -14777,6 +14804,7 @@
       "flavor": "I'm not a shaman or anything, but isn't Elemental Destruction the opposite of what they want to do?",
       "artist": "Tyler Walpole",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload"
@@ -16221,6 +16249,7 @@
       "flavor": "Calling the mist doesn't sound all that great.  \"Ooooh, it is slightly damp now!\"",
       "artist": "Wei Wang",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Shaman",
       "mechanics": [
@@ -16264,6 +16293,7 @@
       "flavor": "Allowing totems to attack is not cheating.  I mean, there isn't anything in the rule books about it.",
       "artist": "Sean McNally",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Inspire"
@@ -16296,6 +16326,7 @@
       "flavor": "What happens when you glue a buncha totems together.",
       "artist": "Steve Prescott",
       "collectible": true,
+      "threat": true,
       "race": "Totem",
       "playerClass": "Shaman",
       "mechanics": [
@@ -16384,6 +16415,7 @@
       "flavor": "Turns out the tuskarr aren't real choosy about their totems.",
       "artist": "Eva Widermann",
       "collectible": true,
+      "threat": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Battlecry"
