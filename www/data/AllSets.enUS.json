@@ -255,6 +255,7 @@
       "flavor": "Given the number of kings who have been assassinated, are you sure you want their blessing?",
       "artist": "Lucas Graciano",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49."
@@ -277,6 +278,7 @@
       "flavor": "\"As in, you MIGHT want to get out of my way.\" - Toad Mackle, recently buffed.",
       "artist": "Zoltan Boros",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 45."
@@ -521,6 +523,7 @@
       "flavor": "Consecrated ground glows with Holy energy.  But it smells a little, too.",
       "artist": "Vance Kovacs",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 4.",
       "howToGetGold": "Unlocked at Level 43."
@@ -1074,6 +1077,7 @@
       "flavor": "Holy beings from the beyond are so cliché!",
       "artist": "E.M. Gist",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 47.",
@@ -1117,6 +1121,7 @@
       "flavor": "A good paladin has many tools.  Hammer of Wrath, Pliers of Vengeance, Hacksaw of Justice, etc.",
       "artist": "Efrem Palacios",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 32."
@@ -1132,6 +1137,7 @@
       "flavor": "This spell has been renamed so many times, even paladins don’t know what it should be called anymore.",
       "artist": "Clint Langley",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 23."
@@ -1329,6 +1335,7 @@
       "flavor": "This card makes something really damp.  Oh wait.  That's \"Humidity.\"",
       "artist": "Daren Bader",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 28."
@@ -1537,6 +1544,7 @@
       "flavor": "Prince Malchezaar was a collector of rare weapons. He'd animate them and have them dance for him.",
       "artist": "Glenn Rane",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -2652,6 +2660,7 @@
       "flavor": "It Slices, it Dices. You can cut a tin can with it. (But you wouldn't want to.)",
       "artist": "Ryan Sook",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 40."
@@ -3497,6 +3506,7 @@
       "flavor": "Everybody wants someone to snuggle with. Even giant armored scaly draconic beasts of destruction.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "race": "Dragon",
       "playerClass": "Paladin",
       "howToGet": "Unlocked by defeating General Drakkisath in Blackrock Spire.",
@@ -5009,6 +5019,7 @@
       "flavor": "The Aldor hate two things: the Scryers and smooth jazz.",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -5269,6 +5280,7 @@
       "flavor": "\"I'm not saying you can dodge fireballs.  I'm saying with this shield, you won't have to.\"",
       "artist": "Doug Alexander",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -5346,6 +5358,7 @@
       "flavor": "Wham! Wham! Wham! Wham! Wham! Wham! Wham! Wham!",
       "artist": "Alex Garner",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "ImmuneToSpellpower"
@@ -5565,6 +5578,7 @@
       "flavor": "This card causes double the trouble AND double the fun.",
       "artist": "Tyler Walpole",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin"
     },
     {
@@ -5584,6 +5598,7 @@
       "flavor": "Apparently with wisdom comes the knowledge that you should probably be attacking every turn.",
       "artist": "Chippy",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin"
     },
     {
@@ -6279,6 +6294,7 @@
       "flavor": "This is not just a favor, but a divine one, like helping someone move a couch with a fold out bed!",
       "artist": "Lucas Graciano",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin"
     },
     {
@@ -6563,6 +6579,7 @@
       "flavor": "We are all special unique snowflakes... with 1 Health.",
       "artist": "Michal Ivan",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin"
     },
     {
@@ -7571,6 +7588,7 @@
       "flavor": "A grammatically awkward life saver.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin"
     },
     {
@@ -8243,6 +8261,7 @@
       "flavor": "We will always remember you, \"Defender!\"",
       "artist": "Zoltan & Gabor",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Secret"
@@ -8624,6 +8643,7 @@
       "flavor": "I am not sure how you get demptioned the first time.  It’s a mystery!",
       "artist": "Ittoku",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Secret"
@@ -8640,6 +8660,7 @@
       "flavor": "Repentance often comes in the moment before obliteration. Curious.",
       "artist": "Gonzalo Ordonez",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Secret"
@@ -9380,6 +9401,7 @@
       "flavor": "I dub you Sir Loin of Beef!",
       "artist": "Efrem Palacios",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin"
     },
     {
@@ -9546,6 +9568,7 @@
       "flavor": "If you haven't heard the Tirion Fordring theme song, it's because it doesn't exist.",
       "artist": "Brom",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Paladin",
       "mechanics": [
@@ -10046,6 +10069,7 @@
       "flavor": "Several paladins have joined together to deliver justice under the name \"Justice Force\".  Their lawyer talked them out of calling themselves the Justice League.",
       "artist": "Zoltan & Gabor",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked by completing the Paladin Class Challenge in Naxxramas.",
       "howToGetGold": "Can be crafted after completing the Paladin Class Challenge in Naxxramas.",
@@ -11733,6 +11757,7 @@
       "flavor": "Spoiler alert: Bolvar gets melted and then sits on an ice throne and everyone forgets about him.",
       "artist": "Tooth",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Paladin"
     },
@@ -11906,6 +11931,7 @@
       "flavor": "So you ripped this out of a machine, carved some runes on it, stuck it on a handle, and now it's a weapon of great divine power? Seems legit.",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -13005,6 +13031,7 @@
       "flavor": "\"I'm bringing the guacamole!\" – One of the most successful (yet rare) Silver Hand rallying cries",
       "artist": "Mike Hayes",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin"
     },
     {
@@ -13191,6 +13218,7 @@
       "flavor": "His specialty? Dividing things into four pieces.",
       "artist": "Phroilan Gardner",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -13294,6 +13322,7 @@
       "flavor": "The Scarlet Crusade is doing market research to find out if the \"Mauve Crusade\" would be better received.",
       "artist": "Anton Zemskov",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -13399,6 +13428,7 @@
       "flavor": "He chooses to believe what he is programmed to believe!",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "playerClass": "Paladin",
       "mechanics": [
@@ -14037,6 +14067,7 @@
       "flavor": "The stripes make it look like a candy cane, but we recommend against licking it.",
       "artist": "Joe Wilson",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -14688,6 +14719,7 @@
       "flavor": "Nobody rocks a monocle like Eadric.",
       "artist": "James Ryman",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Paladin",
       "mechanics": [
@@ -14741,6 +14773,7 @@
       "flavor": "You have to get past the vendors first.  So many are lost to shopping...",
       "artist": "Mauricio Herrera",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin"
     },
     {
@@ -15528,6 +15561,7 @@
       "flavor": "Hee hee!  Look at his cute little feet.",
       "artist": "Sam Nielson",
       "collectible": true,
+      "threat": true,
       "race": "Murloc",
       "playerClass": "Paladin",
       "mechanics": [
@@ -15546,6 +15580,7 @@
       "flavor": "He may sound surly and antisocial, but he's actually just really shy.",
       "artist": "Zoltan Boros",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -15902,6 +15937,7 @@
       "flavor": "\"Arf! Arf! Arf!\" - Seal of Champions",
       "artist": "Jonboy Meyers",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin"
     },
     {
@@ -16434,6 +16470,7 @@
       "flavor": "He doesn't even get Sundays off.  Every day he's hostling.",
       "artist": "Zoltan & Gabor",
       "collectible": true,
+      "threat": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Aura"
