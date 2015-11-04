@@ -71,6 +71,7 @@
       "artist": "Wei Wang",
       "collectible": true,
       "playerClass": "Hunter",
+      "threat": true,
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 45."
     },
@@ -1283,6 +1284,7 @@
       "flavor": "\"Who let the dogs out?\" he asks.  It's rhetorical.",
       "artist": "Dan Brereton",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 28.",
@@ -1339,6 +1341,7 @@
       "flavor": "Never play 'Hide and Go Seek' with a Hunter.",
       "artist": "Jimmy Lo",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 40."
@@ -1445,6 +1448,7 @@
       "flavor": "\"Kill!\", he commanded.",
       "artist": "Gabe from Penny Arcade",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49."
@@ -1773,6 +1777,7 @@
       "flavor": "You see, it's all about <i>throughput</i>.",
       "artist": "Benjamin Zhang",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -2660,6 +2665,7 @@
       "flavor": "Tundra rhinos are often mistaken for kodos.  Or am I mistaken?",
       "artist": "Lars Grant-West",
       "collectible": true,
+      "threat": true,
       "race": "Beast",
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 8.",
@@ -4474,6 +4480,7 @@
       "flavor": "Han shot first.",
       "artist": "Jonboy Meyers",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked by completing the Hunter Class Challenge in Blackrock Mountain.",
       "howToGetGold": "Can be crafted after completing the Hunter Class Challenge in Blackrock Mountain.",
@@ -6078,6 +6085,7 @@
       "flavor": "Accuracy is not a highly valued trait among the mok'nathal.  Deadliness is near the top, though.",
       "artist": "Steve Prescott",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter"
     },
     {
@@ -6417,6 +6425,7 @@
       "flavor": "First Lesson: Put the pointy end in the other guy.",
       "artist": "Cyril Van Der Haegen",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter"
     },
     {
@@ -6608,6 +6617,7 @@
       "flavor": "Pull the pin, count to 5, then shoot.  Then duck.",
       "artist": "Tom Baxa",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter"
     },
     {
@@ -6621,6 +6631,7 @@
       "flavor": "It traps your food AND cooks it for you!",
       "artist": "Brandon Kitkouski",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter",
       "mechanics": [
         "Secret"
@@ -6854,6 +6865,7 @@
       "flavor": "\"Dang, that's cold.\" - appropriate response to Freezing Trap, or a mean joke.",
       "artist": "Matt Gaser",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter",
       "mechanics": [
         "Secret"
@@ -6933,6 +6945,7 @@
       "flavor": "The longbow allows shots to be fired from farther away and is useful for firing on particularly odorous targets.",
       "artist": "Peter C. Lee",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter"
     },
     {
@@ -7452,6 +7465,7 @@
       "flavor": "The best defense against King Krush is to have someone you don’t like standing in front of you.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Beast",
       "playerClass": "Hunter",
@@ -8668,6 +8682,7 @@
       "flavor": "In the jungle, the mighty jungle, the lion gets slowly consumed by hyenas.",
       "artist": "Milivoj Ceran",
       "collectible": true,
+      "threat": true,
       "race": "Beast",
       "playerClass": "Hunter",
       "mechanics": [
@@ -8687,6 +8702,7 @@
       "flavor": "Never wash your whites with a Scarlet Crusader.",
       "artist": "Gonzalo Ordonez",
       "collectible": true,
+      "threat": true,
       "mechanics": [
         "Divine Shield"
       ]
@@ -8704,6 +8720,7 @@
       "flavor": "Hyenas prefer the bones of kodos or windserpents, but they'll eat pretty much anything.  Even Brussels sprouts.",
       "artist": "Jim Nelson",
       "collectible": true,
+      "threat": true,
       "race": "Beast",
       "playerClass": "Hunter"
     },
@@ -8991,6 +9008,7 @@
       "flavor": "Why did it have to be snakes?",
       "artist": "Bernie Kang",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter",
       "mechanics": [
         "Secret"
@@ -9007,6 +9025,7 @@
       "flavor": "A great sniper hits the spot.  Just like a delicious flank of boar. Mmmmm.",
       "artist": "Lorenzo Minaca",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter",
       "mechanics": [
         "Secret"
@@ -9628,6 +9647,7 @@
       "flavor": "You must read the name of this card out loud each time you play it.",
       "artist": "Linggar Bramanty",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter"
     },
     {
@@ -12281,6 +12301,7 @@
       "flavor": "The Sen'jin High football team is The Gahz'rillas.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Beast",
       "playerClass": "Hunter"
@@ -12355,6 +12376,7 @@
       "flavor": "For the times when a regular bazooka just isn't enough.",
       "artist": "Gino Whitehall",
       "collectible": true,
+      "threat": true,        
       "playerClass": "Hunter",
       "mechanics": [
         "Battlecry"
@@ -12639,6 +12661,7 @@
       "flavor": "He never sleeps.  Not even in the mighty jungle.",
       "artist": "Seamus Gallagher",
       "collectible": true,
+      "threat": true,
       "race": "Beast",
       "playerClass": "Hunter",
       "mechanics": [
@@ -13532,6 +13555,7 @@
       "flavor": "Goblins seldom have the patience for sniping. Most prefer lobbing explosives.",
       "artist": "Jun Kang",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter"
     },
     {
@@ -14594,6 +14618,7 @@
       "flavor": "Let's be clear about this:  ACIDMAW is the sidekick.",
       "artist": "Zoltan Boros",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Beast",
       "playerClass": "Hunter"
@@ -15667,6 +15692,7 @@
       "flavor": "pow POW pow",
       "artist": "Jonboy Meyers",
       "collectible": true,
+      "threat": true,
       "playerClass": "Hunter"
     },
     {
