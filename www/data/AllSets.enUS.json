@@ -195,6 +195,7 @@
       "flavor": "Guaranteed to have been owned by a real assassin.   Certificate of authenticity included.",
       "artist": "Brian Huang",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 32."
@@ -210,6 +211,7 @@
       "flavor": "If you don't want to be assassinated, move to the Barrens and change your name. Good luck!",
       "artist": "Glenn Rane",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -235,6 +237,7 @@
       "flavor": "It's funny how often yelling \"Look over there!\" gets your opponent to turn around.",
       "artist": "Michael Sutfin",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -631,6 +634,7 @@
       "flavor": "Rogues guard the secrets to poison-making carefully, lest magi start incorporating poison into their spells.  Poisonbolt? Rain of Poison?  Poison Elemental?  Nobody wants that.",
       "artist": "Trevor Jacobs",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 43."
@@ -2141,6 +2145,7 @@
       "flavor": "Rogues love sappy movies.",
       "artist": "Scott Altmann",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 40."
@@ -5554,6 +5559,7 @@
       "flavor": "Everyone has a price. Gnomes, for example, can be persuaded by stuffed animals and small amounts of chocolate.",
       "artist": "Lucas Graciano",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue"
     },
     {
@@ -5605,6 +5611,7 @@
       "flavor": "\"Look, it's not just about waving daggers around really fast.  It's a lot more complicated than that.\" - Shan, Rogue Trainer",
       "artist": "Hideaki Takamura",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "AffectedBySpellPower"
@@ -5939,6 +5946,7 @@
       "flavor": "\"I'm cold blooded, check it and see!\"",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
@@ -6023,6 +6031,7 @@
       "flavor": "Rogues conceal everything but their emotions.  You can't get 'em to shut up about feelings.",
       "artist": "Steve Hui",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue"
     },
     {
@@ -6236,6 +6245,7 @@
       "flavor": "He stole the deed to town years ago, so technically the town <i>is</i> his. He just calls people Scrub to be mean.",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
@@ -6681,6 +6691,7 @@
       "flavor": "There is a high cost to Eviscerating your opponent:  It takes a long time to get blood stains out of leather armor.",
       "artist": "Ariel Olivetti",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
@@ -7539,6 +7550,7 @@
       "flavor": "He just wants people to see his vacation photos.",
       "artist": "Dave Allsop",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
@@ -8045,6 +8057,7 @@
       "flavor": "She's actually a male tauren.  People don't call him \"Master of Disguise\" for nothing.",
       "artist": "Ron Spencer",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Battlecry"
@@ -8448,6 +8461,7 @@
       "flavor": "He’s not really that patient. It just takes a while for someone to walk by that he can actually reach.",
       "artist": "Ben Olson",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Poisonous",
@@ -8467,6 +8481,7 @@
       "flavor": "Perdition's Blade is Ragnaros's back-up weapon while Sulfuras is in the shop.",
       "artist": "Daren Bader",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Battlecry",
@@ -8578,6 +8593,7 @@
       "flavor": "\"Be Prepared\" - Rogue Motto",
       "artist": "Clint Langley",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue"
     },
     {
@@ -9030,6 +9046,7 @@
       "flavor": "The agents of SI:7 are responsible for Stormwind's covert activities.  Their duties include espionage, assassination, and throwing surprise birthday parties for the royal family.",
       "artist": "Chris Moeller",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
@@ -12590,6 +12607,7 @@
       "flavor": "This guy is excellent at adjusting your haircut and/or height.",
       "artist": "Zolton Boros",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "playerClass": "Rogue",
       "mechanics": [
@@ -12755,6 +12773,7 @@
       "flavor": "Mechs like learning from him because he really speaks their language.\n0110100001101001",
       "artist": "Brian Despain",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "playerClass": "Rogue"
     },
@@ -13423,6 +13442,7 @@
       "flavor": "Rogues can't stand it. They know you planned it! They are going to set you straight!",
       "artist": "Dave Allsop",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
@@ -13816,6 +13836,7 @@
       "flavor": "\"Get ready to strike oil!\" - Super-cheesy battle cry",
       "artist": "Den",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
@@ -14444,6 +14465,7 @@
       "flavor": "The best part of buccaneering is the pants.",
       "artist": "Matt Dixon",
       "collectible": true,
+      "threat": true,
       "race": "Pirate",
       "playerClass": "Rogue"
     },
@@ -16166,6 +16188,7 @@
       "flavor": "I have great deal for you... for 4 damage to your face!",
       "artist": "Tooth",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Battlecry"
@@ -16564,6 +16587,7 @@
       "flavor": "Almost went to play for Stormwind before signing with Undercity.",
       "artist": "Zoltan Boros",
       "collectible": true,
+      "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
