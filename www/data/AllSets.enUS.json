@@ -3308,6 +3308,7 @@
       "flavor": "Left head and right head can never agree about what to eat for dinner, so they always end up just eating ramen again.",
       "artist": "Todd Lockwood",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Dragon",
       "howToGet": "Unlocked by completing Blackwing Lair.",
@@ -3759,6 +3760,7 @@
       "flavor": "His second greatest regret is summoning an evil Firelord who enslaved his entire people.",
       "artist": "Wayne Reynolds",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "howToGet": "Unlocked by completing Blackrock Depths.",
       "howToGetGold": "Can be crafted after completing Blackrock Depths."
@@ -4263,6 +4265,7 @@
       "flavor": "You thought Executus turned you into Ragnaros, but really Ragnaros was in you the whole time.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "howToGet": "Unlocked by completing Molten Core.",
       "howToGetGold": "Can be crafted after completing Molten Core.",
@@ -4349,6 +4352,7 @@
       "flavor": "They call him \"Blackwing\" because he's a black dragon...... and he's got wings.",
       "artist": "Ruan Jia",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Dragon",
       "howToGet": "Unlocked by defeating every boss in Blackrock Mountain!",
@@ -4614,6 +4618,7 @@
       "flavor": "Rend believes he is the True Warchief of the Horde and he keeps editing the wikipedia page for \"Warchief of the Horde\" to include his picture.",
       "artist": "Alex Horley",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "howToGet": "Unlocked by completing Blackrock Spire.",
       "howToGetGold": "Can be crafted after completing Blackrock Spire.",
@@ -5074,6 +5079,7 @@
       "flavor": "Alexstrasza the Life-Binder brings life and hope to everyone.  Except Deathwing.  And Malygos.  And Nekros.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Dragon",
       "mechanics": [
@@ -5473,6 +5479,7 @@
       "flavor": "Baron Geddon was Ragnaros's foremost lieutenant, until he got FIRED.",
       "artist": "Ian Ameling",
       "collectible": true,
+      "threat": true,
       "elite": true
     },
     {
@@ -5737,7 +5744,7 @@
       "text": "<b>Spell Damage +1</b>. <b>Deathrattle:</b> Draw a card.",
       "flavor": "He's in charge of the Annual Scarlet Monastery Blood Drive!",
       "artist": "Alex Horley Orlandelli",
-      "collectible": true,
+      "collectible": true,        
       "elite": true,
       "mechanics": [
         "Deathrattle",
@@ -5837,6 +5844,7 @@
       "flavor": "Cairne was killed by Garrosh, so... don't put this guy in a Warrior deck.  It's pretty insensitive.",
       "artist": "Wayne Reynolds",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Deathrattle"
@@ -6170,6 +6178,7 @@
       "flavor": "Once a noble dragon known as Neltharion, Deathwing lost his mind and shattered Azeroth before finally being defeated.  Daddy issues?",
       "artist": "Bernie Kang",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Dragon",
       "mechanics": [
@@ -6567,6 +6576,7 @@
       "flavor": "He led the Stonemasons in the reconstruction of Stormwind, and when the nobles refused to pay, he founded the Defias Brotherhood to, well, <i>deconstruct</i> Stormwind.",
       "artist": "Efrem Palacios",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Rogue",
       "mechanics": [
@@ -7103,6 +7113,7 @@
       "flavor": "He's Gruul \"the Dragonkiller\".  He just wanted to cuddle them… he never meant to…",
       "artist": "Kev Walker",
       "collectible": true,
+      "threat": true,
       "elite": true
     },
     {
@@ -7124,6 +7135,7 @@
       "flavor": "“That belongs in the Hall of Explorers!”",
       "artist": "Matt Dixon",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Battlecry"
@@ -7184,6 +7196,7 @@
       "flavor": "Hogger is super powerful. If you kill him, it's because he <i>let</i> you.",
       "artist": "Laurel D. Austin",
       "collectible": true,
+      "threat": true,
       "elite": true
     },
     {
@@ -7331,6 +7344,7 @@
       "flavor": "Illidan's brother, Malfurion, imprisoned him beneath Hyjal for 10,000 years.  Stormrages are not good at letting go of grudges.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Demon"
     },
@@ -7570,6 +7584,7 @@
       "flavor": "King Mukla wanders Jaguero Isle, searching for love.",
       "artist": "Sunny Gho",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Beast",
       "mechanics": [
@@ -7678,6 +7693,7 @@
       "flavor": "At least he has Angry Chicken.",
       "artist": "Gabe from Penny Arcade",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Battlecry",
@@ -7879,6 +7895,7 @@
       "flavor": "Malygos hates it when mortals use magic.  He gets so mad!",
       "artist": "Michael Komarck",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Dragon",
       "mechanics": [
@@ -8058,6 +8075,7 @@
       "flavor": "\"I'm gonna light you up, sweetcheeks!\"",
       "artist": "Jim Nelson",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Battlecry"
@@ -8374,6 +8392,7 @@
       "flavor": "Time to write some flavor text.",
       "artist": "James Ryman",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Dragon"
     },
@@ -8390,6 +8409,7 @@
       "flavor": "Onyxia long manipulated the Stormwind Court by disguising herself as Lady Katrana Prestor.   You would have thought that the giant wings and scales would have been a giveaway.",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Dragon",
       "mechanics": [
@@ -8653,6 +8673,7 @@
       "flavor": "Ragnaros was summoned by the Dark Iron dwarves, who were eventually enslaved by the Firelord.  Summoning Ragnaros often doesn’t work out the way you want it to.",
       "artist": "Greg Staples",
       "collectible": true,
+      "threat": true,
       "elite": true
     },
     {
@@ -9490,6 +9511,7 @@
       "flavor": "Sylvanas was turned into the Banshee Queen by Arthas, but he probably should have just killed her because it just pissed her off.",
       "artist": "Glenn Rane",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Deathrattle"
@@ -9559,6 +9581,7 @@
       "flavor": "He lives in Blackrock Mountain.  He eats Gnomes.  That's pretty much it.",
       "artist": "Glenn Rane",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Beast",
       "mechanics": [
@@ -9577,6 +9600,7 @@
       "flavor": "He was sent by the Lich King to disrupt the Argent Tournament.   We can pretty much mark that a failure.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Battlecry"
@@ -9625,6 +9649,7 @@
       "flavor": "Tinkmaster Overspark nearly lost his Tinker's license after the Great Ironforge Squirrel Stampede of '09.",
       "artist": "Tom Baxa",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Battlecry"
@@ -10095,6 +10120,7 @@
       "flavor": "Ysera rules the Emerald Dream.  Which is some kind of green-mirror-version of the real world, or something?",
       "artist": "Gabor Szikszai",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Dragon"
     },
@@ -10431,6 +10457,7 @@
       "flavor": "Feugen is sad because everyone likes Stalagg better.",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "howToGet": "Unlocked by completing the Construct Quarter.",
       "howToGetGold": "Can be crafted after completing the Construct Quarter.",
@@ -10705,6 +10732,7 @@
       "flavor": "Kel'Thuzad could not resist the call of the Lich King. Even when it's just a robo-call extolling the Lich King's virtues.",
       "artist": "Chris Robinson",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "howToGet": "Unlocked by defeating every boss in Naxxramas!",
       "howToGetGold": "Can be crafted after defeating every boss in Naxxramas!"
@@ -10753,6 +10781,7 @@
       "flavor": "Loatheb used to be a simple Bog Beast.  This is why we need stricter regulations on mining and agriculture.",
       "artist": "Samwise",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "howToGet": "Unlocked by completing the Plague Quarter.",
       "howToGetGold": "Can be crafted after completing the Plague Quarter.",
@@ -10797,6 +10826,7 @@
       "flavor": "Maexxna gets super mad when people introduce her as \"Maxina\" or \"Maxxy\".",
       "artist": "Howard Lyon",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Beast",
       "howToGet": "Unlocked by completing the Arachnid Quarter.",
@@ -11364,6 +11394,7 @@
       "flavor": "Stalagg want to write own flavor text.  \"STALAGG AWESOME!\"",
       "artist": "Dany Orizio",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "howToGet": "Unlocked by completing the Construct Quarter.",
       "howToGetGold": "Can be crafted after completing the Construct Quarter.",
@@ -12160,6 +12191,7 @@
       "flavor": "MARVEL AT HIS MIGHT!",
       "artist": "Alex Garner",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Battlecry"
@@ -12399,6 +12431,7 @@
       "flavor": "Foe reaping is really not so different from harvest reaping, at the end of the day.",
       "artist": "James Ryman",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Mech"
     },
@@ -12979,6 +13012,7 @@
       "flavor": "He was obsessed with explosives until he discovered knitting. Now he yells, “SWEATERS! MORE SWEATERS!”",
       "artist": "Trent Kaniuga",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Mech"
     },
@@ -13064,6 +13098,7 @@
       "flavor": "Do not push the big red button!",
       "artist": "Trent Kaniuga",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Mech"
     },
@@ -13111,6 +13146,7 @@
       "flavor": "Mogor helped reopen the Dark Portal once. You know you're in trouble when you have to rely on an ogre.",
       "artist": "Michal Ivan",
       "collectible": true,
+      "threat": true,
       "elite": true
     },
     {
@@ -13138,7 +13174,7 @@
       "flavor": "Neptulon is \"The Tidehunter\". He’s one of the four elemental lords. And he and Ragnaros get together and make really amazing saunas.",
       "artist": "Ruan Jia",
       "collectible": true,
-      "threat": true,
+      "threat": true,      
       "elite": true,
       "playerClass": "Shaman",
       "mechanics": [
@@ -13634,6 +13670,7 @@
       "flavor": "When Sneed was defeated in the Deadmines, his shredder was sold at auction to an anonymous buyer. (Probably Hogger.)",
       "artist": "Christopher Moeller",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Mech",
       "mechanics": [
@@ -13824,6 +13861,7 @@
       "flavor": "Something about power converters.",
       "artist": "Zoltan & Gabor",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Battlecry",
@@ -13842,6 +13880,7 @@
       "flavor": "Gallywix believes in supply and demand. He supplies the beatings and demands you pay up!",
       "artist": "Wei Wang",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Rogue"
     },
@@ -13869,6 +13908,7 @@
       "flavor": "He keeps earthinating the countryside despite attempts to stop him.",
       "artist": "Mike Sass",
       "collectible": true,
+      "threat": true,
       "elite": true
     },
     {
@@ -14121,6 +14161,7 @@
       "flavor": "Was actually a pretty nice guy before, you know, the whole Lich King thing.",
       "artist": "Eric Braddock",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Rogue",
       "mechanics": [
@@ -14479,6 +14520,7 @@
       "flavor": "Chillmaw keeps trying to ruin the Grand Tournament, and she would've done it too, if it weren't for those dang kids!",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Dragon",
       "mechanics": [
@@ -14937,6 +14979,7 @@
       "flavor": "HATES being called \"the wonder twins\".",
       "artist": "Ben Thompson",
       "collectible": true,
+      "threat": true,
       "elite": true
     },
     {
@@ -15030,6 +15073,7 @@
       "flavor": "LOVES being called \"the wonder twins\".",
       "artist": "Mark Zug",
       "collectible": true,
+      "threat": true,
       "elite": true
     },
     {
@@ -15150,6 +15194,7 @@
       "flavor": "Gormok has been giving impaling lessons in a small tent near the tournament grounds.  For only 25g you too could learn the fine art of impaling!",
       "artist": "Nutthapon Petchthai",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Battlecry"
@@ -15256,6 +15301,7 @@
       "flavor": "This massive yeti just closes his eyes and charges at the nearest target.  The nearest Target is a couple blocks away and has sick deals on skateboards.",
       "artist": "John Polidora",
       "collectible": true,
+      "threat": true,      
       "elite": true,
       "mechanics": [
         "Charge"
@@ -15304,6 +15350,7 @@
       "flavor": "It's like putting racing stripes and a giant spoiler on your hero power.",
       "artist": "Jomaro Kindred",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Battlecry"
@@ -15718,6 +15765,7 @@
       "flavor": "The ethereals have their own jousting tournament, and Saraad is the reigning champion.  Also he won the ethereal hot dog eating contest.",
       "artist": "Marcleo Vignali",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Inspire"
@@ -16191,6 +16239,7 @@
       "flavor": "What's more boss than riding a parrot with a jawbone for a shoulderpad while wielding a giant hook-lance-thing and wearing a pirate hat?  NOTHING.",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "race": "Pirate",
       "mechanics": [
@@ -16333,6 +16382,7 @@
       "flavor": "Apparently it really was just a flesh wound.",
       "artist": "Mike Sass",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "mechanics": [
         "Deathrattle"
