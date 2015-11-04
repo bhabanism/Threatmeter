@@ -641,6 +641,7 @@
       "flavor": "Double the trouble. Double the fun!",
       "artist": "Jim Pavelec",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 28."
@@ -1260,6 +1261,7 @@
       "flavor": "If the Holy Light forsakes you, good luck casting this spell.  Also, you're probably a jerk.",
       "artist": "Luca Zontini",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 45."
@@ -1677,6 +1679,7 @@
       "flavor": "Nominated as \"Spell Most Likely to Make Your Opponent Punch the Wall.\"",
       "artist": "Sean O’Daniels",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49."
@@ -1876,6 +1879,7 @@
       "flavor": "They help the downtrodden and distressed.  Also they sell cookies.",
       "artist": "Terese Nielsen",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 40.",
@@ -1972,6 +1976,7 @@
       "flavor": "Sure the extra protection is nice, but the shield really reduces visibility.",
       "artist": "Jessica Jung",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -2205,6 +2210,7 @@
       "flavor": "If you miss, it leaves a lightning-bolt-shaped scar on your target.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 43."
@@ -2219,6 +2225,7 @@
       "flavor": "A step up from a spell cast by many beginning acolytes: \"Shadow Word: Annoy\".",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -4598,6 +4605,7 @@
       "flavor": "I walked into the dungeon and noticed a slain adventurer. In his final moments, he had scrawled out a message in the dust on the wall beside him. Two words: \"rez plz\"",
       "artist": "Luke Mancini",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked by defeating Emperor Thaurissan in Blackrock Depths.",
       "howToGetGold": "Can be crafted after defeating Emperor Thaurissan in Blackrock Depths."
@@ -5342,6 +5350,7 @@
       "flavor": "The Auchenai know the end is coming, but they're not sure when.",
       "artist": "Doug Alexander",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "mechanics": [
         "Aura"
@@ -5776,6 +5785,7 @@
       "flavor": "You never know who may be secretly working for the Cabal....",
       "artist": "Chippy",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "mechanics": [
         "Battlecry"
@@ -5860,6 +5870,7 @@
       "flavor": "It isn't really a circle.",
       "artist": "Daarken",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest"
     },
     {
@@ -7368,6 +7379,7 @@
       "flavor": "Good idea: Buffing your minions.  Bad idea: Starting a conversation in the Barrens.",
       "artist": "Steve Prescott",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest"
     },
     {
@@ -7693,6 +7705,7 @@
       "flavor": "Spawn of the Light? Or Pawn of the Lights?",
       "artist": "Daarken",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest"
     },
     {
@@ -8524,6 +8537,7 @@
       "flavor": "He's been exiled from his home, and all his brothers turned evil, but otherwise he doesn't have a lot to complain about.",
       "artist": "Wei Wang",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Priest"
     },
@@ -8817,6 +8831,7 @@
       "flavor": "You can rationalize it all you want, it's still a mean thing to do.",
       "artist": "Mark Gibbons",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest"
     },
     {
@@ -9466,6 +9481,7 @@
       "flavor": "He also moonlights Thursday nights as a bouncer at the Pig and Whistle Tavern.",
       "artist": "Daren Bader",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "mechanics": [
         "Battlecry"
@@ -10158,6 +10174,7 @@
       "flavor": "The Cult of the Damned has found it's best not to mention their name when recruiting new cultists.",
       "artist": "Phroilan Gardner",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked by completing the Priest Class Challenge in Naxxramas.",
       "howToGetGold": "Can be crafted after completing the Priest Class Challenge in Naxxramas.",
@@ -12723,6 +12740,7 @@
       "flavor": "\"Light it up!\" - Command given to both Lightwardens and Goblins holding Flamecannons.",
       "artist": "Jesper Ejsing",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest"
     },
     {
@@ -12735,6 +12753,7 @@
       "flavor": "This is what happens when you allow goblins to be priests.",
       "artist": "Luca Zontini",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "mechanics": [
         "AffectedBySpellPower"
@@ -13406,6 +13425,7 @@
       "flavor": "Punching is its primary function. Also, its secondary function.",
       "artist": "Dan Scott",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "playerClass": "Priest"
     },
@@ -13486,6 +13506,7 @@
       "flavor": "After the debacle of the Gnomish World Enlarger, gnomes are wary of size-changing inventions.",
       "artist": "Jim Nelson",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "mechanics": [
         "Battlecry"
@@ -13797,6 +13818,7 @@
       "flavor": "It's the same as the previous generation but they slapped the word \"upgraded\" on it to sell it for double.",
       "artist": "Nutchapol Thitinunthakorn",
       "collectible": true,
+      "threat": true,
       "race": "Mech",
       "playerClass": "Priest",
       "mechanics": [
@@ -13835,6 +13857,7 @@
       "flavor": "Velen wrote a \"Lovely Card\" for Tyrande with a picture of the Deeprun Tram that said \"I Choo-Choo-Choose you!\"",
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest"
     },
     {
@@ -13864,6 +13887,7 @@
       "flavor": "Vol'jin is a shadow hunter, which is like a shadow priest except more voodoo.",
       "artist": "Raymond Swanland",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Priest",
       "mechanics": [
@@ -14466,6 +14490,7 @@
       "flavor": "She sees into your past and makes you face your fears.  Most common fear:  Getting Majordomo out of Sneed's Old Shredder.",
       "artist": "Chris Rahn",
       "collectible": true,
+      "threat": true,
       "elite": true,
       "playerClass": "Priest",
       "mechanics": [
@@ -15114,6 +15139,7 @@
       "flavor": "She really likes seeing people get better.  That's why she hurts them in the first place.",
       "artist": "Alex Garner",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest"
     },
     {
@@ -15985,6 +16011,7 @@
       "flavor": "Hopes to be promoted to \"Shadowfriend\" someday.",
       "artist": "Warren Mahy",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest"
     },
     {
@@ -16123,6 +16150,7 @@
       "flavor": "What did you expect to happen?  He's a Spawn.  Of Shadows.",
       "artist": "Dave Allsop",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "mechanics": [
         "Inspire"
@@ -16552,6 +16580,7 @@
       "flavor": "Keeping tabs on the Grand Tournament is priority #1 for the five mighty Dragonflights!",
       "artist": "Jeff Easley",
       "collectible": true,
+      "threat": true,
       "playerClass": "Priest",
       "mechanics": [
         "Battlecry"
