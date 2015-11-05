@@ -30,7 +30,7 @@ $('#endturn').unbind().click(function() {
 $('#reset').click(function() {
     var mana = $('#mana').val();
     if(mana!=1) {
-        $('#mana').val(1);
+        $('#mana').val(0);
         loadCards();
     } 
 });
