@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "blankproject",
       "projectGuid": "a0ec07b8-4ad4-46b0-b6d6-906f7331429d",
-      "lastModifiedDate": 1446026693097,
+      "lastModifiedDate": 1446716169708,
       "creationDate": 1446026693052
     },
     "sourceDirectory": "www",
@@ -38,13 +38,6 @@
         "selectedState": "Auto",
         "data": {},
         "paramvals": {}
-      },
-      {
-        "id": "org.apache.cordova.splashscreen",
-        "version": "0.2.5",
-        "selectedState": "Auto",
-        "data": {},
-        "paramvals": {}
       }
     ],
     "buildConfigurations": {
@@ -54,22 +47,67 @@
         "name_": "Android",
         "preferences_": {
           "android-minSdkVersion": "10",
-          "android-targetSdkVersion": "19"
+          "android-targetSdkVersion": "19",
+          "Fullscreen": true,
+          "Orientation": "default"
         },
         "isActive_": true,
         "appName_": "Threatmeter",
         "appID_": "xdk.intel.blank.project",
         "appAccess_": "*",
-        "icons_": [],
+        "icons_": [
+          {
+            "relPath": "img/icons/ic_menu_exit.png",
+            "density": "xhdpi",
+            "height": 96,
+            "width": 96
+          },
+          {
+            "relPath": "img/icons/xhdpi_home.png",
+            "density": "xhdpi",
+            "height": 96,
+            "width": 96
+          },
+          {
+            "relPath": "img/icons/threatmeter_icon_96.png",
+            "density": "xhdpi",
+            "height": 96,
+            "width": 96
+          },
+          {
+            "relPath": "img/icons/threatmeter_icon_72.png",
+            "density": "hdpi",
+            "height": 72,
+            "width": 72
+          },
+          {
+            "relPath": "img/icons/96.png",
+            "density": "xhdpi",
+            "height": 96,
+            "width": 96
+          },
+          {
+            "relPath": "img/icons/48.png",
+            "density": "mdpi",
+            "height": 48,
+            "width": 48
+          },
+          {
+            "relPath": "img/icons/threatmeter_icon.png",
+            "density": "xhdpi",
+            "height": 96,
+            "width": 96
+          }
+        ],
         "splashes_": [],
         "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "cordovaCLIVersion_": "3.3",
         "crosswalkVersion_": "stable",
-        "appVersion_": "0.0.1",
+        "appVersion_": "1.0",
         "appDescription_": "Universal init code for Intel XDK and Cordova device ready detection, as well as within browser.",
-        "appAuthor_": "",
+        "appAuthor_": "Bhabani",
         "appVersionCode_": "1"
       },
       "Android-Crosswalk": {
