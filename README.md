@@ -1,5 +1,5 @@
 # Threatmeter
-An android app for hearthstone gamer with short term memory. 
+An android app for hearthstone gamers with short term memory. 
 An app to show you the list of cards that catch you off gaurd, Don't get rekt anymore! 
 
 
