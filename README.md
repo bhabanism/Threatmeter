@@ -17,7 +17,7 @@ An app to show you the list of cards that catch you off gaurd, don't get rekt an
 ### How to install 
 1. Download the latest apk file from [build folder](https://github.com/bhabanism/Threatmeter/tree/master/builds) to your android device. 
 2. Find it in the downloads folder and launch it, approve to install. 
-3. The app will be installed with lightforge icon ![lightforge](https://raw.githubusercontent.com/bhabanism/Threatmeter/master/www/img/icons/threatmeter_icon_48.png). 
+3. The app will be installed with lightforge icon ![lightforge](https://raw.githubusercontent.com/bhabanism/Threatmeter/master/www/img/icons/threatmeter_icon_48.png)
 
 
 ##### Upcoming features 
