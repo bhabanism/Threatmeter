@@ -4,7 +4,7 @@ $(document).ready(function() {
 
 
 $('#hero').change(function() {   
-    loadCards();
+    loadCards();     
 });
 
 $('#mana').change(function() {
@@ -22,7 +22,7 @@ $('#search').unbind().click(function() {
 $('#endturn').unbind().click(function() {    
     var mana = $('#mana').val();
     mana++;
-    $('#mana').val(mana);
+    $('#mana').val(mana);    
     loadCards();
     
 });
@@ -35,7 +35,9 @@ $('#reset').click(function() {
     } 
 });
 
-loadCards = function() {
+loadCards = function() {    
+    
+    $('#mana').slider('refresh'); 
     
     clearCards();
     var showThreatOnly = false;    
