@@ -1,9 +1,13 @@
 $(document).ready(function() {
+    $( ".drawer" ).collapsible({
+        collapseCueText: " collapse with a click"
+    });
+    
     loadCards();
 });
 
 
-$('#hero').change(function() {   
+$('#hero').change(function() {
     loadCards();     
 });
 
@@ -27,7 +31,7 @@ $('#endturn').unbind().click(function() {
     
 });
 
-$('#reset').click(function() {
+$('#reset').click(function() { 
     var mana = $('#mana').val();
     if(mana!=1) {
         $('#mana').val(0);
@@ -117,21 +121,21 @@ isManaCostBetween = function(card, upperlimit, lowerlimit) {
 
 clearCards = function() {
     $('#weapons').empty();
-    $('.weapons').hide();
+    $('#weapons_set').hide();    
     
     $('#spells').empty();
-    $('.spells').hide();
+    $('#spells_set').hide();
     
     $('#class_minions').empty();
-    $('.class_minions').hide();
+    $('#class_minions_set').hide();
     
     $('#neutral_minions').empty();    
-    $('.neutral_minions').hide();    
+    $('#neutral_minions_set').hide();    
 }
 
 showCards = function() {
-    if($('#weapons').children().length>0) $('.weapons').show();    
-    if($('#spells').children().length>0) $('.spells').show();
-    if($('#class_minions').children().length>0) $('.class_minions').show();
-    if($('#neutral_minions').children().length>0) $('.neutral_minions').show();
+    if($('#weapons').children().length>0) $('#weapons_set').show();    
+    if($('#spells').children().length>0) $('#spells_set').show();
+    if($('#class_minions').children().length>0) $('#class_minions_set').show();
+    if($('#neutral_minions').children().length>0) $('#neutral_minions_set').show();
 }
