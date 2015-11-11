@@ -324,6 +324,7 @@
       "artist": "Luca Zontini",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 40."
@@ -823,6 +824,7 @@
       "artist": "Ralph Horsley",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49.",
@@ -896,6 +898,7 @@
       "artist": "Jonathan Ryder",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "race": "Totem",
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 4.",
@@ -1247,6 +1250,7 @@
       "artist": "Steve Hui",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -2131,6 +2135,7 @@
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Shaman",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -6446,6 +6451,7 @@
       "artist": "John Polidora",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload",
@@ -7007,6 +7013,7 @@
       "artist": "Ralph Horsley",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload"
@@ -7828,6 +7835,7 @@
       "artist": "Christopher Moeller",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload"
@@ -15038,6 +15046,7 @@
       "artist": "Tyler Walpole",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Shaman",
       "mechanics": [
         "Overload"
