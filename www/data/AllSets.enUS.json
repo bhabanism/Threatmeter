@@ -838,6 +838,7 @@
       "artist": "Ralph Horsley",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 44."
@@ -864,6 +865,7 @@
       "artist": "Romain De Santi",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 51."
@@ -1984,6 +1986,7 @@
       "artist": "Vance Kovacs",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Mage",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -5310,6 +5313,7 @@
       "artist": "Wayne Reynolds",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "playerClass": "Mage"
     },
@@ -5701,6 +5705,7 @@
       "artist": "Chris Seaman",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Mage",
       "mechanics": [
         "Freeze"
@@ -9921,6 +9926,7 @@
       "artist": "Raymond Swanland",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Mage",
       "mechanics": [
         "Secret"
@@ -12465,6 +12471,7 @@
       "artist": "Mauricio Herrera",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Mage"
     },
     {
@@ -15201,6 +15208,7 @@
       "artist": "Nutthapon Petchthai",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Mage"
     },
     {
