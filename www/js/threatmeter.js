@@ -6,7 +6,13 @@ $(document).ready(function() {
     loadCards();
 });
 
-
+/**
+* Methods to reload cards on - 
+* 1. Change of Hero
+* 2. Change of Mana
+* 3. Change of show threat toggle button
+* 4. Click of Search, End turn and Reset
+*/
 $('#hero').change(function() {
     loadCards();     
 });
@@ -39,11 +45,16 @@ $('#reset').click(function() {
     } 
 });
 
+
+/**
+Method to load cards from the json data based on the filter criteria
+*/
 loadCards = function() {    
     
-    $('#mana').slider('refresh'); 
+    $('#mana').slider('refresh');    
     
     clearCards();
+    
     var showThreatOnly = false;    
     if($('#threat').val()=="true") {
         showThreatOnly = true;
@@ -60,13 +71,17 @@ loadCards = function() {
         $.each( data, function( cards ) {
             if(this instanceof Array)
             { 
-                $.each( this, function( id , card ) {      
-                    //if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, 0)  && isPlayableCard(card)) {
-                     //todo get it from form.
+                $.each( this, function( id , card ) {  
+                    
+                     //var imgSrc = 'http://wow.zamimg.com/images/hearthstone/cards/enus/medium/'+card.id+'.png';
+                    
+                    var imgSrc = './img/cards/'+card.id+'.png';
+                    
+                    if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, 0)  && isPlayableCard(card) && showThreatOnly && isCardDangerous(card)) {
+                            $('#dangers').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                    } else
+                    
                     if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, mana)  && isPlayableCard(card) && isThreatening(card, showThreatOnly)) {
-                                                
-                        //var imgSrc = 'http://wow.zamimg.com/images/hearthstone/cards/enus/medium/'+card.id+'.png';
-                        var imgSrc = './img/cards/'+card.id+'.png';
                         
                         if(card.playerClass === undefined) {                            
                             $('#neutral_minions').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
@@ -89,10 +104,23 @@ loadCards = function() {
    
 }
 
-isThreatening = function(card, showThreatOnly) {        
+isCardDangerous = function(card) {
+    if(card.danger == undefined || card.threat != true) {        
+        return false;
+    } else {
+        return true;
+    }  
+    
+}
+
+
+isThreatening = function(card, showThreatOnly) {
+    
+    //Show all cards if show threats is off. 
     if(!showThreatOnly) {
         return true;
     }
+    
     if(card.threat == undefined || card.threat != true) {        
         return false;
     } else {
@@ -120,6 +148,10 @@ isManaCostBetween = function(card, upperlimit, lowerlimit) {
 }
 
 clearCards = function() {
+    
+    $('#dangers').empty();
+    $('#dangers_set').hide();
+    
     $('#weapons').empty();
     $('#weapons_set').hide();    
     
@@ -134,6 +166,7 @@ clearCards = function() {
 }
 
 showCards = function() {
+    if($('#dangers').children().length>0) $('#dangers_set').show();    
     if($('#weapons').children().length>0) $('#weapons_set').show();    
     if($('#spells').children().length>0) $('#spells_set').show();
     if($('#class_minions').children().length>0) $('#class_minions_set').show();

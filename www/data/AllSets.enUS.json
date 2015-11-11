@@ -8350,6 +8350,7 @@
       "artist": "Leo Che",
       "collectible": true,
       "threat": true,
+      "danger": true,        
       "playerClass": "Druid"
     },
     {
