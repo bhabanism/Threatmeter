@@ -212,6 +212,7 @@
       "artist": "Glenn Rane",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 47."
@@ -238,6 +239,7 @@
       "artist": "Michael Sutfin",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -638,6 +640,7 @@
       "artist": "Trevor Jacobs",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 43."
@@ -2159,6 +2162,7 @@
       "artist": "Scott Altmann",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Rogue",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 40."
@@ -5592,6 +5596,7 @@
       "artist": "Lucas Graciano",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Rogue"
     },
     {
@@ -5646,6 +5651,7 @@
       "artist": "Hideaki Takamura",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Rogue",
       "mechanics": [
         "AffectedBySpellPower"
@@ -6738,6 +6744,7 @@
       "flavor": "There is a high cost to Eviscerating your opponent:  It takes a long time to get blood stains out of leather armor.",
       "artist": "Ariel Olivetti",
       "collectible": true,
+      "danger": true,
       "threat": true,
       "playerClass": "Rogue",
       "mechanics": [
@@ -7605,6 +7612,7 @@
       "artist": "Dave Allsop",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
@@ -8523,6 +8531,7 @@
       "artist": "Ben Olson",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Poisonous",
@@ -9114,6 +9123,7 @@
       "artist": "Chris Moeller",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
@@ -13541,6 +13551,7 @@
       "artist": "Dave Allsop",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Rogue",
       "mechanics": [
         "Combo"
@@ -14567,6 +14578,7 @@
       "artist": "Matt Dixon",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "race": "Pirate",
       "playerClass": "Rogue"
     },
