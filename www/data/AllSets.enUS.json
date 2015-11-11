@@ -5096,6 +5096,7 @@
       "artist": "Raymond Swanland",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "race": "Dragon",
       "mechanics": [
@@ -6646,7 +6647,6 @@
       "artist": "Lars Grant-West",
       "collectible": true,
       "threat": true,
-      "danger": true,
       "race": "Beast",
       "mechanics": [
         "Poisonous"
@@ -7174,7 +7174,6 @@
       "artist": "Matt Dixon",
       "collectible": true,
       "threat": true,
-      "danger": true,
       "elite": true,
       "mechanics": [
         "Battlecry"
@@ -7607,6 +7606,7 @@
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "race": "Beast",
       "playerClass": "Hunter",
@@ -8458,6 +8458,7 @@
       "artist": "Dany Orizio",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "race": "Dragon",
       "mechanics": [
@@ -8725,6 +8726,7 @@
       "artist": "Greg Staples",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true
     },
     {
@@ -9661,6 +9663,7 @@
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "mechanics": [
         "Battlecry"
@@ -10796,6 +10799,7 @@
       "artist": "Chris Robinson",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "howToGet": "Unlocked by defeating every boss in Naxxramas!",
       "howToGetGold": "Can be crafted after defeating every boss in Naxxramas!"
@@ -11952,7 +11956,7 @@
       "text": "<b>Battlecry:</b> Deal 4 damage to a random enemy minion.",
       "flavor": "He lobbies Orgrimmar daily on behalf of bombs.",
       "artist": "Luca Zontini",
-      "collectible": true,
+      "collectible": true,      
       "threat": true,
       "mechanics": [
         "Battlecry"
@@ -12501,6 +12505,7 @@
       "artist": "James Ryman",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "race": "Mech"
     },
@@ -13459,6 +13464,7 @@
       "artist": "Efrem Palacios",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Druid"
     },
     {
@@ -14200,7 +14206,7 @@
       "text": "<b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Charge</b>.",
       "flavor": "\"Put more spikes on her.  No, more spikes.  What part of 'more spikes' do you not understand?  MORE SPIKES!\" - Alexstrasza",
       "artist": "Evgeniy Zagumennyy",
-      "collectible": true,
+      "collectible": true,      
       "playerClass": "Warrior",
       "mechanics": [
         "Battlecry"
@@ -15517,6 +15523,7 @@
       "artist": "Ben Wootten",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "mechanics": [
         "Inspire"
       ]
