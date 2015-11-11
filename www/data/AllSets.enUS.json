@@ -2591,6 +2591,7 @@
       "artist": "Sean O’Daniels",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Druid",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 47."
@@ -5588,6 +5589,7 @@
       "artist": "Chris Seaman",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -5743,6 +5745,7 @@
       "artist": "Trent Kaniuga",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -6643,6 +6646,7 @@
       "artist": "Lars Grant-West",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "race": "Beast",
       "mechanics": [
         "Poisonous"
@@ -7170,6 +7174,7 @@
       "artist": "Matt Dixon",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "mechanics": [
         "Battlecry"
@@ -8135,6 +8140,7 @@
       "artist": "Leo Che",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "mechanics": [
         "Battlecry"
       ]
@@ -9427,6 +9433,7 @@
       "artist": "Richard Wright",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Druid"
     },
     {
@@ -15786,6 +15793,7 @@
       "artist": "Dan Scott",
       "collectible": true,
       "threat": true,
+      "danger" : true,
       "playerClass": "Druid"
     },
     {
