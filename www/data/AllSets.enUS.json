@@ -532,6 +532,7 @@
       "artist": "Vance Kovacs",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 4.",
       "howToGetGold": "Unlocked at Level 43."
@@ -1157,6 +1158,7 @@
       "artist": "Clint Langley",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 23."
@@ -1283,6 +1285,7 @@
       "artist": "Luca Zontini",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 45."
@@ -1359,6 +1362,7 @@
       "artist": "Daren Bader",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 28."
@@ -1703,6 +1707,7 @@
       "artist": "Sean O’Daniels",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 10.",
       "howToGetGold": "Unlocked at Level 49."
@@ -2242,6 +2247,7 @@
       "artist": "Raymond Swanland",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 8.",
       "howToGetGold": "Unlocked at Level 43."
@@ -2257,6 +2263,7 @@
       "artist": "Raymond Swanland",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Priest",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -2704,6 +2711,7 @@
       "artist": "Ryan Sook",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin",
       "howToGet": "Unlocked at Level 2.",
       "howToGetGold": "Unlocked at Level 40."
@@ -5082,6 +5090,7 @@
       "artist": "Dany Orizio",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -5350,6 +5359,7 @@
       "artist": "Doug Alexander",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -5430,6 +5440,7 @@
       "artist": "Alex Garner",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin",
       "mechanics": [
         "ImmuneToSpellpower"
@@ -5859,6 +5870,7 @@
       "artist": "Chippy",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Priest",
       "mechanics": [
         "Battlecry"
@@ -5945,6 +5957,7 @@
       "artist": "Daarken",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Priest"
     },
     {
@@ -6682,6 +6695,7 @@
       "artist": "Michal Ivan",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin"
     },
     {
@@ -8814,6 +8828,7 @@
       "artist": "Gonzalo Ordonez",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Secret"
@@ -8974,6 +8989,7 @@
       "artist": "Mark Gibbons",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Priest"
     },
     {
@@ -9744,6 +9760,7 @@
       "artist": "Brom",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "playerClass": "Paladin",
       "mechanics": [
@@ -12132,6 +12149,7 @@
       "artist": "Dany Orizio",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -12952,6 +12970,7 @@
       "artist": "Luca Zontini",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Priest",
       "mechanics": [
         "AffectedBySpellPower"
@@ -14107,6 +14126,7 @@
       "collectible": true,
       "threat": true,
       "elite": true,
+      "danger": true,
       "playerClass": "Priest",
       "mechanics": [
         "Battlecry"
@@ -15833,6 +15853,7 @@
       "artist": "Sam Nielson",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "race": "Murloc",
       "playerClass": "Paladin",
       "mechanics": [
@@ -15852,6 +15873,7 @@
       "artist": "Zoltan Boros",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin",
       "mechanics": [
         "Battlecry"
@@ -16212,6 +16234,7 @@
       "artist": "Jonboy Meyers",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Paladin"
     },
     {
