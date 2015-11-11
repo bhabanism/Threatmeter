@@ -766,6 +766,7 @@
       "flavor": "It's okay, he deserved it.",
       "artist": "Dany Orizio",
       "collectible": true,
+      "danger": true,
       "threat": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 1.",
@@ -806,6 +807,7 @@
       "artist": "Lucas Graciano",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 49."
@@ -1208,6 +1210,7 @@
       "artist": "Chippy",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warlock",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 49."
@@ -5865,6 +5868,7 @@
       "artist": "Wayne Reynolds",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warrior"
     },
     {
@@ -6430,6 +6434,7 @@
       "artist": "Lucas Graciano",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
@@ -7142,6 +7147,7 @@
       "artist": "Zoltan & Gabor",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warrior"
     },
     {
@@ -7164,6 +7170,7 @@
       "artist": "Glenn Rane",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "playerClass": "Warrior",
       "mechanics": [
@@ -7927,6 +7934,7 @@
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "race": "Demon",
       "playerClass": "Warlock",
@@ -8640,6 +8648,7 @@
       "artist": "Tom Baxa",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warlock"
     },
     {
@@ -9032,6 +9041,7 @@
       "artist": "Dave Kendall",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warlock",
       "mechanics": [
         "AffectedBySpellPower"
@@ -9095,6 +9105,7 @@
       "artist": "Raymond Swanland",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warrior",
       "mechanics": [
         "AffectedBySpellPower"
@@ -9200,6 +9211,7 @@
       "artist": "Tyler Walpole",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warlock"
     },
     {
@@ -9868,6 +9880,7 @@
       "artist": "Dave Allsop",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warlock"
     },
     {
@@ -10403,6 +10416,7 @@
       "artist": "Jim Nelson",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warrior",
       "howToGet": "Unlocked by completing the Warrior Class Challenge in Naxxramas.",
       "howToGetGold": "Can be crafted after completing the Warrior Class Challenge in Naxxramas.",
@@ -12233,6 +12247,7 @@
       "artist": "Michael Sutfin",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warrior"
     },
     {
@@ -12849,6 +12864,7 @@
       "artist": "Jaemin Kim",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warlock"
     },
     {
@@ -13054,6 +13070,7 @@
       "artist": "Wayne Reynolds",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "race": "Demon",
       "playerClass": "Warlock",
@@ -14849,6 +14866,7 @@
       "artist": "Paul Mafayon",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Warlock"
     },
     {
