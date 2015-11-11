@@ -1373,6 +1373,7 @@
       "artist": "Jimmy Lo",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 6.",
       "howToGetGold": "Unlocked at Level 40."
@@ -1813,6 +1814,7 @@
       "artist": "Benjamin Zhang",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Hunter",
       "howToGet": "Unlocked at Level 1.",
       "howToGetGold": "Unlocked at Level 36."
@@ -6194,6 +6196,7 @@
       "artist": "Steve Prescott",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Hunter"
     },
     {
@@ -6209,6 +6212,7 @@
       "artist": "Bernie Kang",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "race": "Dragon",
       "mechanics": [
@@ -6739,6 +6743,7 @@
       "artist": "Tom Baxa",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Hunter"
     },
     {
@@ -6993,6 +6998,7 @@
       "artist": "Matt Gaser",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Hunter",
       "mechanics": [
         "Secret"
@@ -8898,6 +8904,7 @@
       "artist": "Jim Nelson",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "race": "Beast",
       "playerClass": "Hunter"
     },
@@ -9850,6 +9857,7 @@
       "artist": "Linggar Bramanty",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "playerClass": "Hunter"
     },
     {
@@ -14907,6 +14915,7 @@
       "artist": "Zoltan Boros",
       "collectible": true,
       "threat": true,
+      "danger": true,
       "elite": true,
       "race": "Beast",
       "playerClass": "Hunter"

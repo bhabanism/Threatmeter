@@ -78,7 +78,32 @@ loadCards = function() {
                     var imgSrc = './img/cards/'+card.id+'.png';
                     
                     if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, 0)  && isPlayableCard(card) && showThreatOnly && isCardDangerous(card)) {
-                            $('#dangers').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                        switch(card.cost) {
+                                case 0: $('#dangers_0').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                                break;
+                                case 1: $('#dangers_1').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                                break;
+                                case 2: $('#dangers_2').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                                break;
+                                case 3: $('#dangers_3').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                                break;
+                                case 4: $('#dangers_4').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                                break;
+                                case 5: $('#dangers_5').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                                break;
+                                case 6: $('#dangers_6').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                                break;
+                                case 7: $('#dangers_7').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                                break;
+                                case 8: $('#dangers_8').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                                break;
+                                case 9: $('#dangers_9').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                                break;
+                                default: $('#dangers_10').append('<img class="card_image" src='+imgSrc+' alt='+card.name+'/>');
+                                break;
+                                
+                        }
+                            
                     } else
                     
                     if(isPlayableByClass(this, hero) && isManaCostBetween(this, mana, mana)  && isPlayableCard(card) && isThreatening(card, showThreatOnly)) {
@@ -149,7 +174,18 @@ isManaCostBetween = function(card, upperlimit, lowerlimit) {
 
 clearCards = function() {
     
-    $('#dangers').empty();
+    $('#dangers_0').empty();
+    $('#dangers_1').empty();
+    $('#dangers_2').empty();
+    $('#dangers_3').empty();
+    $('#dangers_4').empty();
+    $('#dangers_5').empty();
+    $('#dangers_6').empty();
+    $('#dangers_7').empty();
+    $('#dangers_8').empty();
+    $('#dangers_9').empty();
+    $('#dangers_10').empty();
+  
     $('#dangers_set').hide();
     
     $('#weapons').empty();
@@ -166,7 +202,19 @@ clearCards = function() {
 }
 
 showCards = function() {
-    if($('#dangers').children().length>0) $('#dangers_set').show();    
+   if($('#dangers_0').children().length>0 || 
+      $('#dangers_1').children().length>0 || 
+      $('#dangers_2').children().length>0 || 
+      $('#dangers_3').children().length>0 || 
+      $('#dangers_4').children().length>0 || 
+      $('#dangers_5').children().length>0 ||
+      $('#dangers_6').children().length>0 || 
+      $('#dangers_7').children().length>0 || 
+      $('#dangers_8').children().length>0 || 
+      $('#dangers_9').children().length>0 || 
+      $('#dangers_10').children().length>0 ) {
+        $('#dangers_set').show();    
+    }
     if($('#weapons').children().length>0) $('#weapons_set').show();    
     if($('#spells').children().length>0) $('#spells_set').show();
     if($('#class_minions').children().length>0) $('#class_minions_set').show();
