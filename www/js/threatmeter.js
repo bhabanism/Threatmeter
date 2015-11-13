@@ -1,7 +1,9 @@
 $(document).ready(function() {
-    $( ".drawer" ).collapsible({
+    $( ".drawer" ).collapsible({   
+        collapsed: false,
         collapseCueText: " collapse with a click"
-    });
+        
+    });    
     
     loadCards();
 });
